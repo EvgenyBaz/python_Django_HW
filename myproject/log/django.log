@@ -1,0 +1,143 @@
+INFO 2023-09-20 20:39:51,136 autoreload 15832 16916 Watching for file changes with StatReloader
+INFO 2023-09-20 20:42:59,528 autoreload 22812 21672 Watching for file changes with StatReloader
+INFO 2023-09-20 20:43:01,206 views 22812 27216 Index page accessed
+INFO 2023-09-20 20:43:01,207 basehttp 22812 27216 "GET / HTTP/1.1" 200 5
+INFO 2023-09-20 20:43:09,870 basehttp 22812 27216 "GET /about HTTP/1.1" 301 0
+INFO 2023-09-20 20:43:09,889 views 22812 10324 About page accessed
+INFO 2023-09-20 20:43:09,890 basehttp 22812 10324 "GET /about/ HTTP/1.1" 200 8
+INFO 2023-09-20 20:44:22,887 autoreload 368 21672 Watching for file changes with StatReloader
+INFO 2023-09-20 20:44:24,573 views 368 20484 Index page accessed
+INFO 2023-09-20 20:44:24,574 basehttp 368 20484 "GET / HTTP/1.1" 200 1584
+INFO 2023-09-20 20:48:29,322 autoreload 368 21672 E:\python_Django_HW\myproject\myapp\views.py changed, reloading.
+INFO 2023-09-20 20:48:29,717 autoreload 26240 19640 Watching for file changes with StatReloader
+INFO 2023-09-20 20:49:51,682 autoreload 26240 19640 E:\python_Django_HW\myproject\myapp\views.py changed, reloading.
+INFO 2023-09-20 20:49:52,047 autoreload 19268 28328 Watching for file changes with StatReloader
+INFO 2023-09-20 20:50:00,850 views 19268 10012 Index page accessed
+INFO 2023-09-20 20:50:00,851 views 19268 10012 Index page accessed: 2023-09-20 20:50:00.851253
+INFO 2023-09-20 20:50:00,851 basehttp 19268 10012 "GET / HTTP/1.1" 200 1464
+INFO 2023-09-20 20:50:12,577 views 19268 10012 About page accessed: 2023-09-20 20:50:12.577508
+INFO 2023-09-20 20:50:12,577 basehttp 19268 10012 "GET /about/ HTTP/1.1" 200 899
+INFO 2023-09-20 20:51:30,524 autoreload 19268 28328 E:\python_Django_HW\myproject\myapp\views.py changed, reloading.
+INFO 2023-09-20 20:51:30,896 autoreload 24360 4924 Watching for file changes with StatReloader
+INFO 2023-09-20 20:52:35,511 autoreload 24360 4924 E:\python_Django_HW\myproject\myapp\views.py changed, reloading.
+INFO 2023-09-20 20:52:35,874 autoreload 7460 10192 Watching for file changes with StatReloader
+INFO 2023-09-20 20:53:22,492 autoreload 15428 15248 Watching for file changes with StatReloader
+INFO 2023-09-20 20:53:22,648 views 15428 14936 Index page accessed
+INFO 2023-09-20 20:53:22,648 views 15428 14936 Index page accessed: 2023-09-20 20:53:22.648275
+INFO 2023-09-20 20:53:22,649 basehttp 15428 14936 "GET / HTTP/1.1" 200 1115
+INFO 2023-09-20 20:53:27,313 views 15428 14936 Index page accessed
+INFO 2023-09-20 20:53:27,314 views 15428 14936 Index page accessed: 2023-09-20 20:53:27.314070
+INFO 2023-09-20 20:53:27,314 basehttp 15428 14936 "GET / HTTP/1.1" 200 1115
+INFO 2023-09-20 20:53:53,449 autoreload 15428 15248 E:\python_Django_HW\myproject\myapp\views.py changed, reloading.
+INFO 2023-09-20 20:53:53,818 autoreload 16696 26400 Watching for file changes with StatReloader
+INFO 2023-09-20 20:55:36,764 views 16696 10188 Index page accessed
+INFO 2023-09-20 20:55:36,764 views 16696 10188 Index page accessed: 2023-09-20 20:55:36.764671
+INFO 2023-09-20 20:55:36,765 basehttp 16696 10188 "GET / HTTP/1.1" 200 1155
+INFO 2023-09-20 20:55:37,350 autoreload 16696 26400 E:\python_Django_HW\myproject\myapp\views.py changed, reloading.
+INFO 2023-09-20 20:55:37,775 autoreload 19440 30220 Watching for file changes with StatReloader
+WARNING 2023-09-20 20:55:38,658 log 19440 9992 Not Found: /about.html
+WARNING 2023-09-20 20:55:38,659 basehttp 19440 9992 "GET /about.html HTTP/1.1" 404 2438
+WARNING 2023-09-20 20:55:43,903 log 19440 9992 Not Found: /about.html
+WARNING 2023-09-20 20:55:43,903 basehttp 19440 9992 "GET /about.html HTTP/1.1" 404 2438
+INFO 2023-09-20 20:55:49,848 views 19440 9992 About page accessed: 2023-09-20 20:55:49.848212
+INFO 2023-09-20 20:55:49,849 basehttp 19440 9992 "GET /about/ HTTP/1.1" 200 899
+INFO 2023-09-20 20:55:50,313 views 19440 9992 About page accessed: 2023-09-20 20:55:50.313378
+INFO 2023-09-20 20:55:50,314 basehttp 19440 9992 "GET /about/ HTTP/1.1" 200 899
+INFO 2023-09-20 20:56:05,656 autoreload 19440 30220 E:\python_Django_HW\myproject\myapp\views.py changed, reloading.
+INFO 2023-09-20 20:56:06,025 autoreload 29444 29788 Watching for file changes with StatReloader
+WARNING 2023-09-20 20:56:14,441 log 29444 14932 Not Found: /about.html
+WARNING 2023-09-20 20:56:14,442 basehttp 29444 14932 "GET /about.html HTTP/1.1" 404 2438
+INFO 2023-09-20 20:56:18,671 views 29444 14932 About page accessed: 2023-09-20 20:56:18.671978
+INFO 2023-09-20 20:56:18,671 basehttp 29444 14932 "GET /about/ HTTP/1.1" 200 899
+INFO 2023-09-20 20:56:18,882 views 29444 14932 About page accessed: 2023-09-20 20:56:18.882183
+INFO 2023-09-20 20:56:18,882 basehttp 29444 14932 "GET /about/ HTTP/1.1" 200 899
+INFO 2023-09-20 20:56:24,901 views 29444 14932 Index page accessed
+INFO 2023-09-20 20:56:24,901 views 29444 14932 Index page accessed: 2023-09-20 20:56:24.901685
+INFO 2023-09-20 20:56:24,901 basehttp 29444 14932 "GET / HTTP/1.1" 200 1157
+INFO 2023-09-20 20:56:26,474 views 29444 14932 About page accessed: 2023-09-20 20:56:26.474901
+INFO 2023-09-20 20:56:26,475 basehttp 29444 14932 "GET /about/ HTTP/1.1" 200 899
+INFO 2023-09-20 20:57:22,016 autoreload 29444 29788 E:\python_Django_HW\myproject\myapp\views.py changed, reloading.
+INFO 2023-09-20 20:57:22,382 autoreload 30544 30548 Watching for file changes with StatReloader
+INFO 2023-09-20 20:57:31,433 views 30544 6584 Index page accessed
+INFO 2023-09-20 20:57:31,434 views 30544 6584 Index page accessed: 2023-09-20 20:57:31.434183
+INFO 2023-09-20 20:57:31,434 basehttp 30544 6584 "GET / HTTP/1.1" 200 984
+INFO 2023-09-20 20:57:33,516 views 30544 6584 Index page accessed
+INFO 2023-09-20 20:57:33,517 views 30544 6584 Index page accessed: 2023-09-20 20:57:33.517821
+INFO 2023-09-20 20:57:33,517 basehttp 30544 6584 "GET / HTTP/1.1" 200 984
+INFO 2023-09-20 20:57:36,802 views 30544 6584 About page accessed: 2023-09-20 20:57:36.802672
+INFO 2023-09-20 20:57:36,803 basehttp 30544 6584 "GET /about/ HTTP/1.1" 200 899
+INFO 2023-09-20 21:58:53,913 autoreload 30544 30548 E:\python_Django_HW\myproject\myapp\views.py changed, reloading.
+INFO 2023-09-20 21:58:54,320 autoreload 29620 17892 Watching for file changes with StatReloader
+INFO 2023-09-20 22:00:27,909 views 29620 31272 Index page accessed: 2023-09-20 22:00:27.909127
+INFO 2023-09-20 22:00:27,910 basehttp 29620 31272 "GET / HTTP/1.1" 200 984
+INFO 2023-09-20 22:01:58,013 views 29620 31276 Index page accessed: 2023-09-20 22:01:58.013134
+INFO 2023-09-20 22:01:58,014 basehttp 29620 31276 "GET / HTTP/1.1" 200 984
+INFO 2023-09-20 22:01:58,512 autoreload 29620 17892 E:\python_Django_HW\myproject\myapp\views.py changed, reloading.
+INFO 2023-09-20 22:01:58,883 autoreload 31260 30468 Watching for file changes with StatReloader
+INFO 2023-09-20 22:02:00,167 views 31260 27744 Index page accessed: 2023-09-20 22:02:00.167146
+INFO 2023-09-20 22:02:00,168 basehttp 31260 27744 "GET / HTTP/1.1" 200 984
+INFO 2023-09-20 22:02:01,456 views 31260 27744 Index page accessed: 2023-09-20 22:02:01.456880
+INFO 2023-09-20 22:02:01,456 basehttp 31260 27744 "GET / HTTP/1.1" 200 984
+INFO 2023-09-20 22:02:02,140 views 31260 27744 Index page accessed: 2023-09-20 22:02:02.140972
+INFO 2023-09-20 22:02:02,140 basehttp 31260 27744 "GET / HTTP/1.1" 200 984
+INFO 2023-09-20 22:02:02,762 views 31260 27744 Index page accessed: 2023-09-20 22:02:02.762945
+INFO 2023-09-20 22:02:02,762 basehttp 31260 27744 "GET / HTTP/1.1" 200 984
+INFO 2023-09-20 22:02:03,299 views 31260 27744 Index page accessed: 2023-09-20 22:02:03.299877
+INFO 2023-09-20 22:02:03,299 basehttp 31260 27744 "GET / HTTP/1.1" 200 984
+INFO 2023-09-20 22:02:26,394 views 31260 27744 Index page accessed: 2023-09-20 22:02:26.394137
+INFO 2023-09-20 22:02:26,394 basehttp 31260 27744 "GET / HTTP/1.1" 200 984
+INFO 2023-09-20 22:02:26,895 autoreload 31260 30468 E:\python_Django_HW\myproject\myapp\views.py changed, reloading.
+INFO 2023-09-20 22:02:27,269 autoreload 29784 16776 Watching for file changes with StatReloader
+INFO 2023-09-20 22:02:28,227 views 29784 30936 Index page accessed: 2023-09-20 22:02:28.227063
+INFO 2023-09-20 22:02:28,227 basehttp 29784 30936 "GET / HTTP/1.1" 200 658
+INFO 2023-09-20 22:02:29,103 views 29784 25544 Index page accessed: 2023-09-20 22:02:29.103888
+INFO 2023-09-20 22:02:29,103 basehttp 29784 25544 "GET / HTTP/1.1" 200 658
+INFO 2023-09-20 22:02:44,942 autoreload 29784 16776 E:\python_Django_HW\myproject\myapp\views.py changed, reloading.
+INFO 2023-09-20 22:02:45,313 autoreload 30348 30276 Watching for file changes with StatReloader
+INFO 2023-09-20 22:02:49,784 views 30348 30324 Index page accessed: 2023-09-20 22:02:49.784043
+INFO 2023-09-20 22:02:49,785 basehttp 30348 30324 "GET / HTTP/1.1" 200 984
+INFO 2023-09-20 22:02:58,865 views 30348 29732 About page accessed: 2023-09-20 22:02:58.865173
+INFO 2023-09-20 22:02:58,865 basehttp 30348 29732 "GET /about/ HTTP/1.1" 200 899
+INFO 2023-09-20 22:03:17,404 autoreload 30348 30276 E:\python_Django_HW\myproject\myapp\views.py changed, reloading.
+INFO 2023-09-20 22:03:17,772 autoreload 31320 30416 Watching for file changes with StatReloader
+INFO 2023-09-20 22:03:19,349 views 31320 4232 Index page accessed: 2023-09-20 22:03:19.349176
+INFO 2023-09-20 22:03:19,350 basehttp 31320 4232 "GET / HTTP/1.1" 200 984
+INFO 2023-09-20 22:03:20,656 views 31320 4232 Index page accessed: 2023-09-20 22:03:20.656113
+INFO 2023-09-20 22:03:20,657 basehttp 31320 4232 "GET / HTTP/1.1" 200 984
+INFO 2023-09-20 22:03:21,239 views 31320 4232 Index page accessed: 2023-09-20 22:03:21.239771
+INFO 2023-09-20 22:03:21,240 basehttp 31320 4232 "GET / HTTP/1.1" 200 984
+INFO 2023-09-20 22:04:21,495 autoreload 31320 30416 E:\python_Django_HW\myproject\myapp\views.py changed, reloading.
+INFO 2023-09-20 22:04:21,873 autoreload 30948 31368 Watching for file changes with StatReloader
+INFO 2023-09-20 22:04:28,721 views 30948 30556 Index page accessed: 2023-09-20 22:04:28.721360
+INFO 2023-09-20 22:04:28,722 basehttp 30948 30556 "GET / HTTP/1.1" 200 1057
+INFO 2023-09-20 22:04:29,709 views 30948 30556 Index page accessed: 2023-09-20 22:04:29.709795
+INFO 2023-09-20 22:04:29,710 basehttp 30948 30556 "GET / HTTP/1.1" 200 1057
+INFO 2023-09-20 22:04:30,293 views 30948 30556 Index page accessed: 2023-09-20 22:04:30.293096
+INFO 2023-09-20 22:04:30,294 basehttp 30948 30556 "GET / HTTP/1.1" 200 1057
+INFO 2023-09-20 22:04:30,480 views 30948 30556 Index page accessed: 2023-09-20 22:04:30.480410
+INFO 2023-09-20 22:04:30,481 basehttp 30948 30556 "GET / HTTP/1.1" 200 1057
+INFO 2023-09-20 22:04:30,650 views 30948 30556 Index page accessed: 2023-09-20 22:04:30.650400
+INFO 2023-09-20 22:04:30,651 basehttp 30948 30556 "GET / HTTP/1.1" 200 1057
+INFO 2023-09-20 22:04:30,835 views 30948 30556 Index page accessed: 2023-09-20 22:04:30.835285
+INFO 2023-09-20 22:04:30,836 basehttp 30948 30556 "GET / HTTP/1.1" 200 1057
+INFO 2023-09-20 22:04:49,016 autoreload 32712 32716 Watching for file changes with StatReloader
+INFO 2023-09-20 22:04:50,378 views 32712 32736 Index page accessed: 2023-09-20 22:04:50.378972
+INFO 2023-09-20 22:04:50,378 basehttp 32712 32736 "GET / HTTP/1.1" 200 1057
+INFO 2023-09-20 22:04:55,922 views 32712 32740 About page accessed: 2023-09-20 22:04:55.922416
+INFO 2023-09-20 22:04:55,923 basehttp 32712 32740 "GET /about/ HTTP/1.1" 200 899
+INFO 2023-09-20 22:05:28,279 autoreload 32712 32716 E:\python_Django_HW\myproject\myapp\views.py changed, reloading.
+INFO 2023-09-20 22:05:28,654 autoreload 2328 31344 Watching for file changes with StatReloader
+INFO 2023-09-20 22:05:33,401 views 2328 32348 Index page accessed: 2023-09-20 22:05:33.401163
+INFO 2023-09-20 22:05:33,401 basehttp 2328 32348 "GET / HTTP/1.1" 200 865
+INFO 2023-09-20 22:05:36,554 views 2328 32348 Index page accessed: 2023-09-20 22:05:36.554182
+INFO 2023-09-20 22:05:36,555 basehttp 2328 32348 "GET / HTTP/1.1" 200 865
+INFO 2023-09-20 22:05:37,154 views 2328 32348 Index page accessed: 2023-09-20 22:05:37.154175
+INFO 2023-09-20 22:05:37,155 basehttp 2328 32348 "GET / HTTP/1.1" 200 865
+INFO 2023-09-20 22:05:37,968 views 2328 32348 About page accessed: 2023-09-20 22:05:37.968895
+INFO 2023-09-20 22:05:37,968 basehttp 2328 32348 "GET /about/ HTTP/1.1" 200 899
+INFO 2023-09-20 22:06:10,536 views 2328 31832 Index page accessed: 2023-09-20 22:06:10.536156
+INFO 2023-09-20 22:06:10,537 basehttp 2328 31832 "GET / HTTP/1.1" 200 865
+INFO 2023-09-20 22:06:10,949 autoreload 2328 31344 E:\python_Django_HW\myproject\myapp\views.py changed, reloading.
+INFO 2023-09-20 22:06:11,324 autoreload 30744 21972 Watching for file changes with StatReloader
+INFO 2023-09-20 22:06:12,275 views 30744 7892 About page accessed: 2023-09-20 22:06:12.275266
+INFO 2023-09-20 22:06:12,275 basehttp 30744 7892 "GET /about/ HTTP/1.1" 200 779
