@@ -3355,3 +3355,4 @@ INFO 2023-09-27 19:17:57,296 autoreload 1572 17416 E:\python_Django_HW\myproject
 INFO 2023-09-27 19:17:57,665 autoreload 10688 25188 Watching for file changes with StatReloader
 INFO 2023-09-27 19:19:55,650 basehttp 10688 6368 "GET /homework3/user_sorted/2/7/ HTTP/1.1" 200 1035
 INFO 2023-09-27 19:23:44,413 autoreload 10688 25188 E:\python_Django_HW\myproject\myapp2\views.py changed, reloading.
+INFO 2023-09-27 19:23:44,788 autoreload 29536 28508 Watching for file changes with StatReloader
