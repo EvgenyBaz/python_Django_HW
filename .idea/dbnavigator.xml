@@ -2,7 +2,7 @@
 <project version="4">
   <component name="DBNavigator.Project.DataEditorManager">
     <record-view-column-sorting-type value="BY_INDEX" />
-    <value-preview-text-wrapping value="true" />
+    <value-preview-text-wrapping value="false" />
     <value-preview-pinned value="false" />
   </component>
   <component name="DBNavigator.Project.DatabaseBrowserManager">
@@ -21,8 +21,9 @@
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files>
+      <object connection-id="ca575292-beef-4303-a6c7-0f29a4a5da3f" object-ref="schemas/main/tables/myapp2_product" />
+      <object connection-id="ca575292-beef-4303-a6c7-0f29a4a5da3f" object-ref="schemas/main/tables/myapp2_user" />
       <object connection-id="ca575292-beef-4303-a6c7-0f29a4a5da3f" object-ref="schemas/main/tables/myapp2_order_products" />
-      <object connection-id="ca575292-beef-4303-a6c7-0f29a4a5da3f" object-ref="schemas/main/tables/myapp2_order" />
     </open-files>
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
@@ -31,12 +32,12 @@
         <condition column="id" operator="=" value="" active="true" />
       </filter>
     </filter-actions>
-    <filter-actions connection-id="ca575292-beef-4303-a6c7-0f29a4a5da3f" dataset="main.myapp2_order_products" active-filter-id="74ad3516-35f8-4224-a89d-b8b14c0d93b7">
+    <filter-actions connection-id="ca575292-beef-4303-a6c7-0f29a4a5da3f" dataset="main.myapp2_order_products" active-filter-id="EMPTY_FILTER">
       <filter id="74ad3516-35f8-4224-a89d-b8b14c0d93b7" name="Filter 1" temporary="false" custom-name="false" type="basic" join-type="AND">
         <condition column="id" operator="=" value="" active="true" />
       </filter>
     </filter-actions>
-    <filter-actions connection-id="ca575292-beef-4303-a6c7-0f29a4a5da3f" dataset="main.myapp2_order" active-filter-id="">
+    <filter-actions connection-id="ca575292-beef-4303-a6c7-0f29a4a5da3f" dataset="main.myapp2_order" active-filter-id="EMPTY_FILTER">
       <filter id="79f71d10-b8e9-4b1c-89f3-1cc978455539" name="Filter 1" temporary="false" custom-name="false" type="basic" join-type="AND">
         <condition column="id" operator="=" value="" active="true" />
       </filter>
@@ -46,6 +47,7 @@
         <condition column="id" operator="=" value="" active="true" />
       </filter>
     </filter-actions>
+    <filter-actions connection-id="ca575292-beef-4303-a6c7-0f29a4a5da3f" dataset="main.django_session" active-filter-id="" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />

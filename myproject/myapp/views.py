@@ -34,7 +34,12 @@ def index(request):
 
 
         <p><a href="/about"> Обо мне </a></p>
+        
+        <p><a href="/homework3"> домашнее задание к семинару 3 </a></p>
     </body>
+   
+    
+    
     </html>
     """
     logger.info(f'Index page accessed: {datetime.now()}')
