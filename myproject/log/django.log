@@ -3356,3 +3356,2108 @@ INFO 2023-09-27 19:17:57,665 autoreload 10688 25188 Watching for file changes wi
 INFO 2023-09-27 19:19:55,650 basehttp 10688 6368 "GET /homework3/user_sorted/2/7/ HTTP/1.1" 200 1035
 INFO 2023-09-27 19:23:44,413 autoreload 10688 25188 E:\python_Django_HW\myproject\myapp2\views.py changed, reloading.
 INFO 2023-09-27 19:23:44,788 autoreload 29536 28508 Watching for file changes with StatReloader
+INFO 2023-09-29 18:04:56,549 autoreload 13148 19428 Watching for file changes with StatReloader
+INFO 2023-09-29 18:07:01,087 autoreload 13148 19428 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-29 18:07:01,453 autoreload 22932 16976 Watching for file changes with StatReloader
+INFO 2023-09-29 18:07:42,392 autoreload 22932 16976 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-29 18:07:42,756 autoreload 15044 11968 Watching for file changes with StatReloader
+INFO 2023-09-29 18:07:52,091 autoreload 15044 11968 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-29 18:07:52,450 autoreload 10944 4088 Watching for file changes with StatReloader
+INFO 2023-09-29 18:07:54,313 views 10944 8748 Index page accessed: 2023-09-29 18:07:54.313094
+INFO 2023-09-29 18:07:54,314 basehttp 10944 8748 "GET / HTTP/1.1" 200 1080
+WARNING 2023-09-29 18:07:54,466 log 10944 8748 Not Found: /favicon.ico
+WARNING 2023-09-29 18:07:54,466 basehttp 10944 8748 "GET /favicon.ico HTTP/1.1" 404 2661
+INFO 2023-09-29 18:07:55,784 basehttp 10944 8748 "GET /homework4 HTTP/1.1" 301 0
+INFO 2023-09-29 18:07:55,804 basehttp 10944 21100 "GET /homework4/ HTTP/1.1" 200 669
+WARNING 2023-09-29 18:08:01,494 log 10944 21100 Not Found: /product_update
+WARNING 2023-09-29 18:08:01,494 basehttp 10944 21100 "GET /product_update HTTP/1.1" 404 2670
+INFO 2023-09-29 18:08:28,817 autoreload 10944 4088 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-29 18:08:29,185 autoreload 17588 16976 Watching for file changes with StatReloader
+INFO 2023-09-29 18:08:59,166 autoreload 17588 16976 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-29 18:08:59,546 autoreload 3332 21024 Watching for file changes with StatReloader
+INFO 2023-09-29 18:10:54,364 autoreload 3332 21024 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-29 18:10:54,738 autoreload 11976 7424 Watching for file changes with StatReloader
+WARNING 2023-09-29 18:10:54,925 log 11976 26300 Not Found: /product_update
+WARNING 2023-09-29 18:10:54,926 basehttp 11976 26300 "GET /product_update HTTP/1.1" 404 2670
+WARNING 2023-09-29 18:10:57,499 log 11976 26300 Not Found: /product_update
+WARNING 2023-09-29 18:10:57,500 basehttp 11976 26300 "GET /product_update HTTP/1.1" 404 2670
+WARNING 2023-09-29 18:13:31,256 log 11976 26300 Not Found: /product_update
+WARNING 2023-09-29 18:13:31,257 basehttp 11976 26300 "GET /product_update HTTP/1.1" 404 2670
+WARNING 2023-09-29 18:13:34,582 log 11976 26300 Not Found: /product_update
+WARNING 2023-09-29 18:13:34,582 basehttp 11976 26300 "GET /product_update HTTP/1.1" 404 2670
+WARNING 2023-09-29 18:13:35,271 log 11976 26300 Not Found: /product_update
+WARNING 2023-09-29 18:13:35,271 basehttp 11976 26300 "GET /product_update HTTP/1.1" 404 2670
+INFO 2023-09-29 18:13:38,070 basehttp 11976 26300 "GET /homework4/ HTTP/1.1" 200 679
+INFO 2023-09-29 18:13:39,900 basehttp 11976 26300 "GET /homework4/product_update HTTP/1.1" 301 0
+INFO 2023-09-29 18:13:39,938 basehttp 11976 19028 "GET /homework4/product_update/ HTTP/1.1" 200 1088
+INFO 2023-09-29 18:14:18,526 basehttp 11976 19028 "GET /homework4/ HTTP/1.1" 200 679
+INFO 2023-09-29 18:14:20,253 basehttp 11976 19028 "GET /homework4/ HTTP/1.1" 200 611
+INFO 2023-09-29 18:14:21,488 basehttp 11976 19028 "GET /homework4/product_update/ HTTP/1.1" 200 1088
+INFO 2023-09-29 18:18:08,567 autoreload 11976 7424 E:\python_Django_HW\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-29 18:18:08,962 autoreload 19192 14040 Watching for file changes with StatReloader
+INFO 2023-09-29 18:27:37,812 autoreload 19192 14040 E:\python_Django_HW\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-29 18:27:38,187 autoreload 17100 24016 Watching for file changes with StatReloader
+INFO 2023-09-29 18:28:02,816 autoreload 17100 24016 E:\python_Django_HW\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-29 18:28:03,180 autoreload 24892 21588 Watching for file changes with StatReloader
+INFO 2023-09-29 18:32:17,963 autoreload 10960 3708 Watching for file changes with StatReloader
+INFO 2023-09-29 18:32:49,734 autoreload 10960 3708 E:\python_Django_HW\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-29 18:32:50,095 autoreload 16464 9372 Watching for file changes with StatReloader
+INFO 2023-09-29 18:33:16,764 autoreload 16464 9372 E:\python_Django_HW\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-29 18:33:17,136 autoreload 23652 25276 Watching for file changes with StatReloader
+INFO 2023-09-29 18:34:08,247 autoreload 23652 25276 E:\python_Django_HW\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-29 18:34:08,614 autoreload 8436 5348 Watching for file changes with StatReloader
+INFO 2023-09-29 18:34:14,344 views 8436 16348 Index page accessed: 2023-09-29 18:34:14.344087
+INFO 2023-09-29 18:34:14,344 basehttp 8436 16348 "GET / HTTP/1.1" 200 1080
+INFO 2023-09-29 18:34:15,439 basehttp 8436 16348 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-09-29 18:34:16,466 basehttp 8436 16348 "GET /homework4/product_update_id HTTP/1.1" 301 0
+INFO 2023-09-29 18:34:16,485 basehttp 8436 19284 "GET /homework4/product_update_id/ HTTP/1.1" 200 1088
+INFO 2023-09-29 18:36:17,017 autoreload 8436 5348 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-29 18:36:17,396 autoreload 21124 9076 Watching for file changes with StatReloader
+ERROR 2023-09-29 18:36:17,672 log 21124 8024 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 26, in product_update_id_form
+    return render(request, 'myapp4/product_update_id.html', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+              ^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\utils.py", line 84, in as_p
+    return self.render(self.template_name_p)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\utils.py", line 75, in render
+    return mark_safe(renderer.render(template, context))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\renderers.py", line 29, in render
+    return template.render(context, request=request).strip()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1070, in render
+    return render_value_in_context(output, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1047, in render_value_in_context
+    value = str(value)
+            ^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\utils\html.py", line 420, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+                                           ^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\boundfield.py", line 34, in __str__
+    return self.as_widget()
+           ^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\boundfield.py", line 94, in as_widget
+    attrs = self.build_widget_attrs(attrs, widget)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\boundfield.py", line 269, in build_widget_attrs
+    widget.use_required_attribute(self.initial)
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\widgets.py", line 783, in use_required_attribute
+    and self._choice_has_empty_value(first_choice)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\widgets.py", line 766, in _choice_has_empty_value
+    value, _ = choice
+    ^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+ERROR 2023-09-29 18:36:17,680 basehttp 21124 8024 "GET /homework4/product_update_id/ HTTP/1.1" 500 254206
+ERROR 2023-09-29 18:36:22,227 log 21124 8024 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 26, in product_update_id_form
+    return render(request, 'myapp4/product_update_id.html', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+              ^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\utils.py", line 84, in as_p
+    return self.render(self.template_name_p)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\utils.py", line 75, in render
+    return mark_safe(renderer.render(template, context))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\renderers.py", line 29, in render
+    return template.render(context, request=request).strip()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1070, in render
+    return render_value_in_context(output, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1047, in render_value_in_context
+    value = str(value)
+            ^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\utils\html.py", line 420, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+                                           ^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\boundfield.py", line 34, in __str__
+    return self.as_widget()
+           ^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\boundfield.py", line 94, in as_widget
+    attrs = self.build_widget_attrs(attrs, widget)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\boundfield.py", line 269, in build_widget_attrs
+    widget.use_required_attribute(self.initial)
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\widgets.py", line 783, in use_required_attribute
+    and self._choice_has_empty_value(first_choice)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\widgets.py", line 766, in _choice_has_empty_value
+    value, _ = choice
+    ^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+ERROR 2023-09-29 18:36:22,233 basehttp 21124 8024 "GET /homework4/product_update_id/ HTTP/1.1" 500 254206
+ERROR 2023-09-29 18:36:24,329 log 21124 8024 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 26, in product_update_id_form
+    return render(request, 'myapp4/product_update_id.html', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+              ^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\utils.py", line 84, in as_p
+    return self.render(self.template_name_p)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\utils.py", line 75, in render
+    return mark_safe(renderer.render(template, context))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\renderers.py", line 29, in render
+    return template.render(context, request=request).strip()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1070, in render
+    return render_value_in_context(output, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1047, in render_value_in_context
+    value = str(value)
+            ^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\utils\html.py", line 420, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+                                           ^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\boundfield.py", line 34, in __str__
+    return self.as_widget()
+           ^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\boundfield.py", line 94, in as_widget
+    attrs = self.build_widget_attrs(attrs, widget)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\boundfield.py", line 269, in build_widget_attrs
+    widget.use_required_attribute(self.initial)
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\widgets.py", line 783, in use_required_attribute
+    and self._choice_has_empty_value(first_choice)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\widgets.py", line 766, in _choice_has_empty_value
+    value, _ = choice
+    ^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+ERROR 2023-09-29 18:36:24,335 basehttp 21124 8024 "GET /homework4/product_update_id/ HTTP/1.1" 500 254069
+INFO 2023-09-29 18:36:27,119 basehttp 21124 8024 "GET /homework4/ HTTP/1.1" 200 613
+ERROR 2023-09-29 18:36:28,235 log 21124 8024 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 26, in product_update_id_form
+    return render(request, 'myapp4/product_update_id.html', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+              ^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\utils.py", line 84, in as_p
+    return self.render(self.template_name_p)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\utils.py", line 75, in render
+    return mark_safe(renderer.render(template, context))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\renderers.py", line 29, in render
+    return template.render(context, request=request).strip()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1070, in render
+    return render_value_in_context(output, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\base.py", line 1047, in render_value_in_context
+    value = str(value)
+            ^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\utils\html.py", line 420, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+                                           ^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\boundfield.py", line 34, in __str__
+    return self.as_widget()
+           ^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\boundfield.py", line 94, in as_widget
+    attrs = self.build_widget_attrs(attrs, widget)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\boundfield.py", line 269, in build_widget_attrs
+    widget.use_required_attribute(self.initial)
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\widgets.py", line 783, in use_required_attribute
+    and self._choice_has_empty_value(first_choice)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\forms\widgets.py", line 766, in _choice_has_empty_value
+    value, _ = choice
+    ^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+ERROR 2023-09-29 18:36:28,241 basehttp 21124 8024 "GET /homework4/product_update_id/ HTTP/1.1" 500 254069
+INFO 2023-09-29 18:37:28,316 autoreload 21124 9076 E:\python_Django_HW\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-29 18:37:28,686 autoreload 26108 5264 Watching for file changes with StatReloader
+INFO 2023-09-29 18:37:43,107 autoreload 26108 5264 E:\python_Django_HW\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-29 18:37:43,470 autoreload 24012 16076 Watching for file changes with StatReloader
+INFO 2023-09-29 18:37:46,106 basehttp 24012 17488 "GET /homework4/product_update_id/ HTTP/1.1" 200 1270
+INFO 2023-09-29 18:38:01,198 basehttp 24012 17488 "POST /homework4/product_update_id/ HTTP/1.1" 200 1279
+INFO 2023-09-29 18:55:48,255 autoreload 2356 10592 Watching for file changes with StatReloader
+INFO 2023-09-29 18:55:51,332 views 2356 12964 Index page accessed: 2023-09-29 18:55:51.332911
+INFO 2023-09-29 18:55:51,333 basehttp 2356 12964 "GET / HTTP/1.1" 200 1080
+INFO 2023-09-29 18:55:52,937 basehttp 2356 12964 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-09-29 18:55:54,759 basehttp 2356 12964 "GET /homework4/product_update_id/ HTTP/1.1" 200 1270
+ERROR 2023-09-29 18:56:00,615 log 2356 12964 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 24, in product_update_id_form
+    return render(request, 'myapp4/product_update/.html', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update/.html
+ERROR 2023-09-29 18:56:00,617 basehttp 2356 12964 "POST /homework4/product_update_id/ HTTP/1.1" 500 91030
+INFO 2023-09-29 18:56:56,502 autoreload 2356 10592 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-29 18:56:56,893 autoreload 680 11948 Watching for file changes with StatReloader
+INFO 2023-09-29 18:56:57,610 basehttp 680 7984 "POST /homework4/product_update_id/ HTTP/1.1" 200 1279
+INFO 2023-09-29 18:56:59,827 basehttp 680 7984 "POST /homework4/product_update_id/ HTTP/1.1" 200 1279
+INFO 2023-09-29 18:57:16,118 basehttp 680 7984 "POST /homework4/product_update_id/ HTTP/1.1" 200 1279
+INFO 2023-09-29 19:02:14,105 autoreload 680 11948 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-29 19:02:14,482 autoreload 27512 17780 Watching for file changes with StatReloader
+ERROR 2023-09-29 19:02:51,934 log 27512 23636 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 24, in product_update_id_form
+    return render(request, f'myapp4/product_update.html/{form.product_id}', {'form': form})
+                                                         ^^^^^^^^^^^^^^^
+AttributeError: 'ProductChoiceForm' object has no attribute 'product_id'
+ERROR 2023-09-29 19:02:51,936 basehttp 27512 23636 "POST /homework4/product_update_id/ HTTP/1.1" 500 75742
+INFO 2023-09-29 19:02:56,595 basehttp 27512 23636 "GET /homework4/product_update_id/ HTTP/1.1" 200 1270
+INFO 2023-09-29 19:02:58,126 basehttp 27512 23636 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-09-29 19:02:59,829 basehttp 27512 23636 "GET /homework4/product_update_id/ HTTP/1.1" 200 1270
+ERROR 2023-09-29 19:03:03,176 log 27512 23636 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 24, in product_update_id_form
+    return render(request, f'myapp4/product_update.html/{form.product_id}', {'form': form})
+                                                         ^^^^^^^^^^^^^^^
+AttributeError: 'ProductChoiceForm' object has no attribute 'product_id'
+ERROR 2023-09-29 19:03:03,177 basehttp 27512 23636 "POST /homework4/product_update_id/ HTTP/1.1" 500 75742
+INFO 2023-09-30 18:23:01,370 autoreload 20920 25868 Watching for file changes with StatReloader
+INFO 2023-09-30 18:23:02,621 views 20920 24812 Index page accessed: 2023-09-30 18:23:02.621815
+INFO 2023-09-30 18:23:02,622 basehttp 20920 24812 "GET / HTTP/1.1" 200 1080
+WARNING 2023-09-30 18:23:02,813 log 20920 24812 Not Found: /favicon.ico
+WARNING 2023-09-30 18:23:02,814 basehttp 20920 24812 "GET /favicon.ico HTTP/1.1" 404 2661
+INFO 2023-09-30 18:23:03,901 basehttp 20920 24812 "GET /homework4 HTTP/1.1" 301 0
+INFO 2023-09-30 18:23:03,923 basehttp 20920 6556 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-09-30 18:23:04,866 basehttp 20920 6556 "GET /homework4/product_update_id HTTP/1.1" 301 0
+INFO 2023-09-30 18:23:04,905 basehttp 20920 27704 "GET /homework4/product_update_id/ HTTP/1.1" 200 1270
+WARNING 2023-09-30 18:27:49,925 log 20920 27704 Not Found: /homework4/product_update/
+WARNING 2023-09-30 18:27:49,926 basehttp 20920 27704 "GET /homework4/product_update/ HTTP/1.1" 404 3359
+ERROR 2023-09-30 18:27:59,693 log 20920 27704 Internal Server Error: /homework4/product_update/2
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: product_update_form() got an unexpected keyword argument 'product_id'
+ERROR 2023-09-30 18:27:59,695 basehttp 20920 27704 "GET /homework4/product_update/2 HTTP/1.1" 500 70676
+WARNING 2023-09-30 18:28:02,364 log 20920 27704 Not Found: /homework4/product_update/2.
+WARNING 2023-09-30 18:28:02,364 basehttp 20920 27704 "GET /homework4/product_update/2. HTTP/1.1" 404 3365
+INFO 2023-09-30 18:47:59,204 autoreload 20920 25868 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 18:47:59,765 autoreload 17436 4284 Watching for file changes with StatReloader
+INFO 2023-09-30 18:52:38,030 autoreload 17436 4284 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 18:52:38,399 autoreload 2156 2124 Watching for file changes with StatReloader
+WARNING 2023-09-30 18:52:39,466 log 2156 18964 Not Found: /homework4/product_update/2.
+WARNING 2023-09-30 18:52:39,467 basehttp 2156 18964 "GET /homework4/product_update/2. HTTP/1.1" 404 3365
+WARNING 2023-09-30 18:52:40,523 log 2156 18964 Not Found: /homework4/product_update/2.
+WARNING 2023-09-30 18:52:40,524 basehttp 2156 18964 "GET /homework4/product_update/2. HTTP/1.1" 404 3365
+ERROR 2023-09-30 18:52:44,340 log 2156 18964 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 24, in product_update_id_form
+    return render(request, f'myapp4/product_update.html/{form.product.id}', {'form': form})
+                                                         ^^^^^^^^^^^^
+AttributeError: 'ProductChoiceForm' object has no attribute 'product'
+ERROR 2023-09-30 18:52:44,341 basehttp 2156 18964 "POST /homework4/product_update_id/ HTTP/1.1" 500 75723
+INFO 2023-09-30 18:55:50,063 autoreload 2156 2124 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 18:55:50,435 autoreload 22708 29280 Watching for file changes with StatReloader
+INFO 2023-09-30 18:55:50,598 basehttp 22708 23456 "POST /homework4/product_update_id/ HTTP/1.1" 200 1279
+INFO 2023-09-30 18:55:51,835 basehttp 22708 27072 "POST /homework4/product_update_id/ HTTP/1.1" 200 1279
+INFO 2023-09-30 18:56:23,460 autoreload 22708 29280 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 18:56:23,832 autoreload 12152 4760 Watching for file changes with StatReloader
+ERROR 2023-09-30 18:56:24,966 log 12152 22728 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 24, in product_update_id_form
+    logger.info(f'Получили {form.product_id=}.')
+                            ^^^^^^^^^^^^^^^
+AttributeError: 'ProductChoiceForm' object has no attribute 'product_id'
+ERROR 2023-09-30 18:56:24,968 basehttp 12152 22728 "POST /homework4/product_update_id/ HTTP/1.1" 500 75812
+ERROR 2023-09-30 18:56:27,059 log 12152 22728 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 24, in product_update_id_form
+    logger.info(f'Получили {form.product_id=}.')
+                            ^^^^^^^^^^^^^^^
+AttributeError: 'ProductChoiceForm' object has no attribute 'product_id'
+ERROR 2023-09-30 18:56:27,060 basehttp 12152 22728 "POST /homework4/product_update_id/ HTTP/1.1" 500 75812
+INFO 2023-09-30 19:03:36,585 autoreload 12152 4760 E:\python_Django_HW\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-30 19:03:36,971 autoreload 23504 15084 Watching for file changes with StatReloader
+ERROR 2023-09-30 19:04:03,699 log 23504 19188 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 25, in product_update_id_form
+    return render(request, f'myapp4/product_update.html/{prod_id}', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update.html/None
+ERROR 2023-09-30 19:04:03,701 basehttp 23504 19188 "POST /homework4/product_update_id/ HTTP/1.1" 500 91440
+ERROR 2023-09-30 19:04:05,934 log 23504 19188 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 25, in product_update_id_form
+    return render(request, f'myapp4/product_update.html/{prod_id}', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update.html/None
+ERROR 2023-09-30 19:04:05,936 basehttp 23504 19188 "POST /homework4/product_update_id/ HTTP/1.1" 500 91440
+INFO 2023-09-30 19:07:01,925 autoreload 23504 15084 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 19:07:02,289 autoreload 13268 16128 Watching for file changes with StatReloader
+ERROR 2023-09-30 19:07:03,082 log 13268 12716 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 25, in product_update_id_form
+    return render(request, f'myapp4/product_update.html/{prod_id}')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update.html/None
+ERROR 2023-09-30 19:07:03,084 basehttp 13268 12716 "POST /homework4/product_update_id/ HTTP/1.1" 500 91186
+ERROR 2023-09-30 19:07:05,630 log 13268 12716 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 25, in product_update_id_form
+    return render(request, f'myapp4/product_update.html/{prod_id}')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update.html/None
+ERROR 2023-09-30 19:07:05,631 basehttp 13268 12716 "POST /homework4/product_update_id/ HTTP/1.1" 500 91186
+INFO 2023-09-30 19:11:46,858 autoreload 13268 16128 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 19:11:47,227 autoreload 26008 5132 Watching for file changes with StatReloader
+ERROR 2023-09-30 19:11:48,978 log 26008 6276 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 26, in product_update_id_form
+    return render(request, f'myapp4/product_update.html/{prod_id}')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update.html/{'product_id': '1'}
+ERROR 2023-09-30 19:11:48,980 basehttp 26008 6276 "POST /homework4/product_update_id/ HTTP/1.1" 500 91786
+INFO 2023-09-30 19:15:29,534 autoreload 26008 5132 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 19:15:29,902 autoreload 8376 13868 Watching for file changes with StatReloader
+ERROR 2023-09-30 19:15:31,071 log 8376 18832 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 26, in product_update_id_form
+    return render(request, f'myapp4/product_update.html/{prod_id}')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update.html/1
+ERROR 2023-09-30 19:15:31,073 basehttp 8376 18832 "POST /homework4/product_update_id/ HTTP/1.1" 500 91180
+ERROR 2023-09-30 19:15:34,148 log 8376 18832 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 26, in product_update_id_form
+    return render(request, f'myapp4/product_update.html/{prod_id}')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update.html/1
+ERROR 2023-09-30 19:15:34,150 basehttp 8376 18832 "POST /homework4/product_update_id/ HTTP/1.1" 500 91180
+INFO 2023-09-30 19:15:54,757 autoreload 8376 13868 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 19:15:55,132 autoreload 26940 25048 Watching for file changes with StatReloader
+ERROR 2023-09-30 19:15:55,896 log 26940 11604 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 26, in product_update_id_form
+    return render(request, f'myapp4/product_update/{prod_id}')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update/1
+ERROR 2023-09-30 19:15:55,898 basehttp 26940 11604 "POST /homework4/product_update_id/ HTTP/1.1" 500 91080
+ERROR 2023-09-30 19:16:01,291 log 26940 11604 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 26, in product_update_id_form
+    return render(request, f'myapp4/product_update/{prod_id}')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update/1
+ERROR 2023-09-30 19:16:01,293 basehttp 26940 11604 "POST /homework4/product_update_id/ HTTP/1.1" 500 91080
+ERROR 2023-09-30 19:16:44,894 log 26940 11604 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 26, in product_update_id_form
+    return render(request, f'myapp4/product_update/{prod_id}')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update/1
+ERROR 2023-09-30 19:16:44,896 basehttp 26940 11604 "POST /homework4/product_update_id/ HTTP/1.1" 500 91080
+INFO 2023-09-30 19:17:22,368 autoreload 26940 25048 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 19:17:22,741 autoreload 22664 15464 Watching for file changes with StatReloader
+ERROR 2023-09-30 19:17:24,914 log 22664 22816 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 26, in product_update_id_form
+    return render(request, f'myapp4/product_update.html/{prod_id}')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update.html/1
+ERROR 2023-09-30 19:17:24,916 basehttp 22664 22816 "POST /homework4/product_update_id/ HTTP/1.1" 500 91180
+INFO 2023-09-30 19:18:52,184 autoreload 22664 15464 E:\python_Django_HW\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-30 19:18:52,546 autoreload 5668 3012 Watching for file changes with StatReloader
+INFO 2023-09-30 19:18:59,333 basehttp 5668 16012 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-09-30 19:19:00,970 basehttp 5668 16012 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+ERROR 2023-09-30 19:19:02,200 log 5668 16012 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 26, in product_update_id_form
+    return render(request, f'myapp4/product_update.html/{prod_id}')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update.html/1
+ERROR 2023-09-30 19:19:02,201 basehttp 5668 16012 "POST /homework4/product_update_id/ HTTP/1.1" 500 91180
+INFO 2023-09-30 19:21:09,197 autoreload 5668 3012 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 19:21:09,603 autoreload 19944 5704 Watching for file changes with StatReloader
+ERROR 2023-09-30 19:21:12,297 log 19944 9660 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 26, in product_update_id_form
+    return render(request, f'myapp4/product_update.html/{prod_id}/')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update.html/2/
+ERROR 2023-09-30 19:21:12,299 basehttp 19944 9660 "POST /homework4/product_update_id/ HTTP/1.1" 500 91192
+INFO 2023-09-30 19:21:31,555 autoreload 19944 5704 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 19:21:31,919 autoreload 16872 18340 Watching for file changes with StatReloader
+ERROR 2023-09-30 19:21:32,774 log 16872 8424 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 25, in product_update_id_form
+    return render(request, f'myapp4/product_update/{prod_id}/')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update/2/
+ERROR 2023-09-30 19:21:32,776 basehttp 16872 8424 "POST /homework4/product_update_id/ HTTP/1.1" 500 90959
+ERROR 2023-09-30 19:21:55,814 log 16872 8424 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 25, in product_update_id_form
+    return render(request, f'myapp4/product_update/{prod_id}/')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update/2/
+ERROR 2023-09-30 19:21:55,816 basehttp 16872 8424 "POST /homework4/product_update_id/ HTTP/1.1" 500 90959
+INFO 2023-09-30 19:28:02,941 autoreload 16872 18340 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 19:28:03,317 autoreload 22372 18564 Watching for file changes with StatReloader
+INFO 2023-09-30 19:29:48,875 autoreload 22372 18564 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 19:29:49,242 autoreload 23940 19780 Watching for file changes with StatReloader
+INFO 2023-09-30 19:30:12,063 autoreload 23940 19780 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 19:30:12,430 autoreload 10268 4200 Watching for file changes with StatReloader
+INFO 2023-09-30 19:31:42,684 autoreload 10268 4200 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 19:31:43,053 autoreload 22700 5020 Watching for file changes with StatReloader
+ERROR 2023-09-30 19:31:43,765 log 22700 18624 Internal Server Error: /homework4/product_update_id/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 25, in product_update_id_form
+    return render(request, f'myapp4/product_update')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/product_update
+ERROR 2023-09-30 19:31:43,767 basehttp 22700 18624 "POST /homework4/product_update_id/ HTTP/1.1" 500 90958
+INFO 2023-09-30 19:31:58,724 autoreload 22700 5020 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 19:31:59,098 autoreload 20732 24828 Watching for file changes with StatReloader
+INFO 2023-09-30 19:31:59,970 basehttp 20732 5660 "POST /homework4/product_update_id/ HTTP/1.1" 200 376
+INFO 2023-09-30 19:32:01,565 basehttp 20732 5660 "POST /homework4/product_update_id/ HTTP/1.1" 200 1329
+INFO 2023-09-30 19:32:05,995 basehttp 20732 5660 "POST /homework4/product_update_id/ HTTP/1.1" 200 376
+INFO 2023-09-30 19:32:29,110 autoreload 20732 24828 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 19:32:29,479 autoreload 9564 19732 Watching for file changes with StatReloader
+INFO 2023-09-30 19:32:29,868 basehttp 9564 20320 "POST /homework4/product_update_id/ HTTP/1.1" 200 376
+INFO 2023-09-30 19:32:40,264 basehttp 9564 20320 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-09-30 19:32:41,505 basehttp 9564 20320 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 19:32:44,522 basehttp 9564 20320 "POST /homework4/product_update_id/ HTTP/1.1" 200 376
+INFO 2023-09-30 19:33:08,186 basehttp 9564 20320 "GET /homework4/product_update HTTP/1.1" 301 0
+INFO 2023-09-30 19:33:08,208 basehttp 9564 23656 "GET /homework4/product_update/ HTTP/1.1" 200 1100
+INFO 2023-09-30 19:34:09,835 basehttp 9564 23656 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 19:34:09,972 autoreload 9564 19732 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 19:34:10,340 autoreload 27620 5536 Watching for file changes with StatReloader
+INFO 2023-09-30 19:34:14,122 basehttp 27620 24688 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 19:34:15,404 basehttp 27620 24688 "POST /homework4/product_update_id/ HTTP/1.1" 200 1276
+INFO 2023-09-30 19:34:16,688 basehttp 27620 24688 "POST /homework4/product_update_id/ HTTP/1.1" 200 1276
+INFO 2023-09-30 19:34:18,451 basehttp 27620 24688 "POST /homework4/product_update_id/ HTTP/1.1" 200 1276
+INFO 2023-09-30 19:34:57,806 basehttp 27620 24688 "POST /homework4/product_update_id/ HTTP/1.1" 200 1276
+INFO 2023-09-30 19:34:57,842 autoreload 27620 5536 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 19:34:58,211 autoreload 28948 21028 Watching for file changes with StatReloader
+INFO 2023-09-30 19:34:58,819 basehttp 28948 18196 "POST /homework4/product_update_id/ HTTP/1.1" 200 1339
+INFO 2023-09-30 19:35:03,861 basehttp 28948 18196 "POST /homework4/product_update_id/ HTTP/1.1" 200 1339
+INFO 2023-09-30 19:35:09,750 basehttp 28948 18196 "POST /homework4/product_update_id/ HTTP/1.1" 200 1339
+INFO 2023-09-30 19:37:16,493 autoreload 28948 21028 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 19:37:16,867 autoreload 15208 28644 Watching for file changes with StatReloader
+INFO 2023-09-30 19:41:27,567 autoreload 15208 28644 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 19:41:27,935 autoreload 19368 3404 Watching for file changes with StatReloader
+INFO 2023-09-30 19:41:50,994 basehttp 19368 17108 "POST /homework4/product_update_id/ HTTP/1.1" 200 1339
+INFO 2023-09-30 19:41:57,546 basehttp 19368 17108 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-09-30 19:41:59,614 basehttp 19368 17108 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 19:42:02,606 basehttp 19368 17108 "POST /homework4/product_update_id/ HTTP/1.1" 200 1339
+INFO 2023-09-30 19:44:48,737 autoreload 19368 3404 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 19:44:49,111 autoreload 9272 1336 Watching for file changes with StatReloader
+INFO 2023-09-30 19:44:49,526 basehttp 9272 8372 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 19:44:53,237 basehttp 9272 8372 "POST /homework4/product_update_id/ HTTP/1.1" 200 376
+INFO 2023-09-30 19:48:24,105 autoreload 9272 1336 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 19:48:24,482 autoreload 24608 17240 Watching for file changes with StatReloader
+INFO 2023-09-30 19:48:41,166 autoreload 24608 17240 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 19:48:41,554 autoreload 29692 13228 Watching for file changes with StatReloader
+INFO 2023-09-30 19:49:35,730 basehttp 29692 17540 "POST /homework4/product_update_id/ HTTP/1.1" 200 1339
+INFO 2023-09-30 19:49:40,434 basehttp 29692 17540 "POST /homework4/product_update_id/ HTTP/1.1" 200 1339
+INFO 2023-09-30 19:50:43,539 basehttp 29692 17540 "GET /homework4/product_update/ HTTP/1.1" 200 1100
+INFO 2023-09-30 20:13:46,448 autoreload 29692 13228 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 20:13:46,837 autoreload 17456 16128 Watching for file changes with StatReloader
+INFO 2023-09-30 20:14:51,541 autoreload 17456 16128 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 20:14:51,915 autoreload 16340 7744 Watching for file changes with StatReloader
+INFO 2023-09-30 20:15:17,146 basehttp 16340 22828 "POST /homework4/product_update_id/ HTTP/1.1" 200 1339
+INFO 2023-09-30 20:15:21,664 basehttp 16340 22828 "POST /homework4/product_update_id/ HTTP/1.1" 200 1339
+INFO 2023-09-30 20:15:26,853 views 16340 22828 Index page accessed: 2023-09-30 20:15:26.853882
+INFO 2023-09-30 20:15:26,853 basehttp 16340 22828 "GET / HTTP/1.1" 200 1080
+INFO 2023-09-30 20:15:28,494 basehttp 16340 22828 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-09-30 20:15:29,298 basehttp 16340 22828 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 20:15:31,048 basehttp 16340 22828 "POST /homework4/product_update_id/ HTTP/1.1" 200 1339
+INFO 2023-09-30 20:17:52,843 autoreload 25440 18148 Watching for file changes with StatReloader
+INFO 2023-09-30 20:17:54,397 views 25440 5036 Index page accessed: 2023-09-30 20:17:54.397234
+INFO 2023-09-30 20:17:54,398 basehttp 25440 5036 "GET / HTTP/1.1" 200 1080
+INFO 2023-09-30 20:17:55,971 basehttp 25440 5036 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-09-30 20:17:56,954 basehttp 25440 5036 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 20:17:58,122 basehttp 25440 5036 "POST /homework4/product_update_id/ HTTP/1.1" 200 1339
+INFO 2023-09-30 20:26:50,294 autoreload 25440 18148 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 20:26:50,675 autoreload 28244 29212 Watching for file changes with StatReloader
+INFO 2023-09-30 20:27:19,634 autoreload 28244 29212 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 20:27:19,993 autoreload 30344 30348 Watching for file changes with StatReloader
+INFO 2023-09-30 20:27:23,696 basehttp 30344 29896 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 20:27:25,630 basehttp 30344 29896 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 20:27:26,690 basehttp 30344 29896 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 20:27:26,714 log 30344 29896 Not Found: /homework4/product_update_id/myapp4/product_update.html
+WARNING 2023-09-30 20:27:26,714 basehttp 30344 29896 "GET /homework4/product_update_id/myapp4/product_update.html HTTP/1.1" 404 3424
+WARNING 2023-09-30 20:28:07,995 log 30344 29896 Not Found: /homework4/product_update_id/myapp4/product_update.html
+WARNING 2023-09-30 20:28:07,996 basehttp 30344 29896 "GET /homework4/product_update_id/myapp4/product_update.html HTTP/1.1" 404 3424
+INFO 2023-09-30 20:28:08,492 autoreload 30344 30348 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 20:28:08,863 autoreload 30548 30544 Watching for file changes with StatReloader
+WARNING 2023-09-30 20:28:08,983 log 30548 29856 Not Found: /homework4/product_update_id/myapp4/product_update.html
+WARNING 2023-09-30 20:28:08,984 basehttp 30548 29856 "GET /homework4/product_update_id/myapp4/product_update.html HTTP/1.1" 404 3424
+INFO 2023-09-30 20:33:42,441 autoreload 30548 30544 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 20:33:42,824 autoreload 30476 29748 Watching for file changes with StatReloader
+WARNING 2023-09-30 20:34:05,587 log 30476 30368 Not Found: /homework4/product_update_id/myapp4/product_update.html
+WARNING 2023-09-30 20:34:05,587 basehttp 30476 30368 "GET /homework4/product_update_id/myapp4/product_update.html HTTP/1.1" 404 3424
+INFO 2023-09-30 20:36:46,799 basehttp 30476 30368 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 20:36:47,456 autoreload 30476 29748 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 20:36:47,830 autoreload 29724 30616 Watching for file changes with StatReloader
+INFO 2023-09-30 20:36:48,015 basehttp 29724 24380 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 20:36:48,039 log 29724 24380 Not Found: /product_update
+WARNING 2023-09-30 20:36:48,040 basehttp 29724 24380 "GET /product_update HTTP/1.1" 404 2670
+INFO 2023-09-30 20:36:53,627 basehttp 29724 24380 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 20:37:42,501 autoreload 29724 30616 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 20:37:42,874 autoreload 12104 30512 Watching for file changes with StatReloader
+WARNING 2023-09-30 20:37:44,038 log 12104 30024 Not Found: /product_update
+WARNING 2023-09-30 20:37:44,039 basehttp 12104 30024 "GET /product_update HTTP/1.1" 404 2670
+WARNING 2023-09-30 20:37:45,145 log 12104 30024 Not Found: /product_update
+WARNING 2023-09-30 20:37:45,145 basehttp 12104 30024 "GET /product_update HTTP/1.1" 404 2670
+INFO 2023-09-30 20:37:47,164 basehttp 12104 30024 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 20:37:48,225 basehttp 12104 30024 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-09-30 20:37:48,243 basehttp 12104 30024 "GET /homework4/product_update/ HTTP/1.1" 200 1100
+INFO 2023-09-30 20:39:41,973 autoreload 12104 30512 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 20:39:42,344 autoreload 9432 26240 Watching for file changes with StatReloader
+INFO 2023-09-30 20:40:00,044 autoreload 9432 26240 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 20:40:00,415 autoreload 3048 19236 Watching for file changes with StatReloader
+INFO 2023-09-30 20:47:55,962 autoreload 3048 19236 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 20:47:56,338 autoreload 2024 29784 Watching for file changes with StatReloader
+INFO 2023-09-30 20:49:14,325 autoreload 2024 29784 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 20:49:14,732 autoreload 30288 5708 Watching for file changes with StatReloader
+INFO 2023-09-30 21:00:36,771 autoreload 30288 5708 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 21:00:37,141 autoreload 22512 30592 Watching for file changes with StatReloader
+INFO 2023-09-30 21:00:37,432 basehttp 22512 11428 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:00:40,579 views 22512 11428 Index page accessed: 2023-09-30 21:00:40.579355
+INFO 2023-09-30 21:00:40,580 basehttp 22512 11428 "GET / HTTP/1.1" 200 1080
+INFO 2023-09-30 21:00:41,815 basehttp 22512 11428 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-09-30 21:00:43,258 basehttp 22512 11428 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:00:45,579 basehttp 22512 11428 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:00:45,600 log 22512 11428 Not Found: /homework4/product_update_id/product_update/6/
+WARNING 2023-09-30 21:00:45,600 basehttp 22512 11428 "GET /homework4/product_update_id/product_update/6/ HTTP/1.1" 404 3420
+INFO 2023-09-30 21:01:50,093 autoreload 22512 30592 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 21:01:50,464 autoreload 6812 16564 Watching for file changes with StatReloader
+WARNING 2023-09-30 21:01:50,652 log 6812 30092 Not Found: /homework4/product_update_id/
+WARNING 2023-09-30 21:01:50,652 basehttp 6812 30092 "GET /homework4/product_update_id/ HTTP/1.1" 404 3168
+WARNING 2023-09-30 21:01:51,705 log 6812 30092 Not Found: /homework4/product_update_id/
+WARNING 2023-09-30 21:01:51,706 basehttp 6812 30092 "GET /homework4/product_update_id/ HTTP/1.1" 404 3168
+WARNING 2023-09-30 21:01:53,924 log 6812 30092 Not Found: /homework4/product_update_id/
+WARNING 2023-09-30 21:01:53,924 basehttp 6812 30092 "GET /homework4/product_update_id/ HTTP/1.1" 404 3168
+INFO 2023-09-30 21:01:56,438 basehttp 6812 30092 "GET /homework4/ HTTP/1.1" 200 613
+WARNING 2023-09-30 21:01:57,393 log 6812 30092 Not Found: /homework4/product_update_id/
+WARNING 2023-09-30 21:01:57,393 basehttp 6812 30092 "GET /homework4/product_update_id/ HTTP/1.1" 404 3168
+INFO 2023-09-30 21:02:05,249 autoreload 6812 16564 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 21:02:05,621 autoreload 29996 22788 Watching for file changes with StatReloader
+INFO 2023-09-30 21:02:06,025 basehttp 29996 29980 "GET /homework4/ HTTP/1.1" 200 613
+WARNING 2023-09-30 21:02:07,389 log 29996 29980 Not Found: /homework4/product_update_id/
+WARNING 2023-09-30 21:02:07,390 basehttp 29996 29980 "GET /homework4/product_update_id/ HTTP/1.1" 404 3363
+INFO 2023-09-30 21:02:15,177 autoreload 29996 22788 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 21:02:15,576 autoreload 27652 2076 Watching for file changes with StatReloader
+INFO 2023-09-30 21:02:17,902 basehttp 27652 6052 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-09-30 21:02:18,751 basehttp 27652 6052 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:02:19,762 basehttp 27652 6052 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:02:19,782 log 27652 6052 Not Found: /homework4/product_update_id/product_update/1/
+WARNING 2023-09-30 21:02:19,782 basehttp 27652 6052 "GET /homework4/product_update_id/product_update/1/ HTTP/1.1" 404 3615
+INFO 2023-09-30 21:04:25,921 autoreload 27652 2076 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 21:04:26,298 autoreload 18684 3748 Watching for file changes with StatReloader
+WARNING 2023-09-30 21:04:26,483 log 18684 15208 Not Found: /homework4/product_update_id/product_update/1/
+WARNING 2023-09-30 21:04:26,484 basehttp 18684 15208 "GET /homework4/product_update_id/product_update/1/ HTTP/1.1" 404 3397
+INFO 2023-09-30 21:04:28,223 basehttp 18684 15208 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:04:29,354 basehttp 18684 15208 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:04:30,326 basehttp 18684 15208 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:04:30,345 log 18684 15208 Not Found: /homework4/product_update_id/product_update/1/
+WARNING 2023-09-30 21:04:30,346 basehttp 18684 15208 "GET /homework4/product_update_id/product_update/1/ HTTP/1.1" 404 3397
+INFO 2023-09-30 21:05:02,830 views 18684 15208 Index page accessed: 2023-09-30 21:05:02.830903
+INFO 2023-09-30 21:05:02,831 basehttp 18684 15208 "GET / HTTP/1.1" 200 1080
+INFO 2023-09-30 21:05:03,089 views 18684 15208 Index page accessed: 2023-09-30 21:05:03.089905
+INFO 2023-09-30 21:05:03,090 basehttp 18684 15208 "GET / HTTP/1.1" 200 1080
+INFO 2023-09-30 21:05:04,443 basehttp 18684 15208 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-09-30 21:05:05,261 basehttp 18684 15208 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:05:06,326 basehttp 18684 15208 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:05:06,344 log 18684 15208 Not Found: /homework4/product_update_id/product_update/1/
+WARNING 2023-09-30 21:05:06,344 basehttp 18684 15208 "GET /homework4/product_update_id/product_update/1/ HTTP/1.1" 404 3397
+INFO 2023-09-30 21:06:09,463 basehttp 18684 23148 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:06:10,061 autoreload 18684 3748 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 21:06:10,431 autoreload 9408 19532 Watching for file changes with StatReloader
+INFO 2023-09-30 21:06:10,619 basehttp 9408 16080 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:06:10,643 log 9408 16080 Not Found: /homework4/product_update_id/product_update/
+WARNING 2023-09-30 21:06:10,643 basehttp 9408 16080 "GET /homework4/product_update_id/product_update/ HTTP/1.1" 404 3391
+INFO 2023-09-30 21:06:30,723 basehttp 9408 16080 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:06:31,373 autoreload 9408 19532 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 21:06:31,742 autoreload 17564 14636 Watching for file changes with StatReloader
+INFO 2023-09-30 21:06:31,925 basehttp 17564 29440 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-09-30 21:06:31,950 basehttp 17564 29440 "GET /homework4/product_update/ HTTP/1.1" 200 1100
+INFO 2023-09-30 21:06:49,840 basehttp 17564 29440 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:06:50,486 autoreload 17564 14636 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 21:06:50,868 autoreload 560 29936 Watching for file changes with StatReloader
+INFO 2023-09-30 21:06:51,457 basehttp 560 19052 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:06:51,479 log 560 19052 Not Found: /homework4/product_update_id/product_update/1
+WARNING 2023-09-30 21:06:51,480 basehttp 560 19052 "GET /homework4/product_update_id/product_update/1 HTTP/1.1" 404 3394
+INFO 2023-09-30 21:06:54,488 basehttp 560 19052 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:06:59,113 basehttp 560 19052 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:06:59,984 basehttp 560 19052 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:07:00,003 log 560 19052 Not Found: /homework4/product_update_id/product_update/1
+WARNING 2023-09-30 21:07:00,004 basehttp 560 19052 "GET /homework4/product_update_id/product_update/1 HTTP/1.1" 404 3394
+INFO 2023-09-30 21:07:49,036 basehttp 560 23504 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:07:49,610 autoreload 560 29936 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 21:07:49,982 autoreload 30656 29916 Watching for file changes with StatReloader
+INFO 2023-09-30 21:07:50,488 basehttp 30656 22864 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:07:50,511 log 30656 22864 Not Found: /homework4/product_update_id/product_update/1
+WARNING 2023-09-30 21:07:50,512 basehttp 30656 22864 "GET /homework4/product_update_id/product_update/1 HTTP/1.1" 404 3612
+INFO 2023-09-30 21:07:53,392 basehttp 30656 22864 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:07:54,549 basehttp 30656 22864 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:07:55,645 basehttp 30656 22864 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:07:55,663 log 30656 22864 Not Found: /homework4/product_update_id/product_update/1
+WARNING 2023-09-30 21:07:55,664 basehttp 30656 22864 "GET /homework4/product_update_id/product_update/1 HTTP/1.1" 404 3612
+INFO 2023-09-30 21:08:17,492 basehttp 30656 22864 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:08:18,072 autoreload 30656 29916 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 21:08:18,438 autoreload 5660 26992 Watching for file changes with StatReloader
+INFO 2023-09-30 21:08:19,486 basehttp 5660 9904 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:08:20,295 basehttp 5660 9904 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:08:20,314 log 5660 9904 Not Found: /homework4/product_update_id/product_update/1
+WARNING 2023-09-30 21:08:20,315 basehttp 5660 9904 "GET /homework4/product_update_id/product_update/1 HTTP/1.1" 404 3417
+INFO 2023-09-30 21:08:35,577 basehttp 5660 9904 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:08:36,156 autoreload 5660 26992 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 21:08:36,528 autoreload 19280 9532 Watching for file changes with StatReloader
+INFO 2023-09-30 21:08:36,719 basehttp 19280 23952 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:08:36,743 log 19280 23952 Not Found: /homework4/product_update_id/product_update/1
+WARNING 2023-09-30 21:08:36,744 basehttp 19280 23952 "GET /homework4/product_update_id/product_update/1 HTTP/1.1" 404 3416
+INFO 2023-09-30 21:09:31,889 basehttp 19280 23952 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:09:32,223 autoreload 19280 9532 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 21:09:32,603 autoreload 4280 3388 Watching for file changes with StatReloader
+INFO 2023-09-30 21:09:35,329 basehttp 4280 22152 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-09-30 21:09:36,224 basehttp 4280 22152 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:09:37,094 basehttp 4280 22152 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:09:37,117 log 4280 22152 Not Found: /homework4/product_update_id/product_update/1/
+WARNING 2023-09-30 21:09:37,118 basehttp 4280 22152 "GET /homework4/product_update_id/product_update/1/ HTTP/1.1" 404 3419
+INFO 2023-09-30 21:10:58,948 autoreload 4280 3388 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 21:10:59,323 autoreload 1296 20732 Watching for file changes with StatReloader
+INFO 2023-09-30 21:10:59,504 basehttp 1296 23340 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:11:00,418 basehttp 1296 23340 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:11:00,438 log 1296 23340 Not Found: /homework4/product_update_id/product_update/1/
+WARNING 2023-09-30 21:11:00,439 basehttp 1296 23340 "GET /homework4/product_update_id/product_update/1/ HTTP/1.1" 404 3420
+INFO 2023-09-30 21:11:22,529 basehttp 1296 23340 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:11:23,186 autoreload 1296 20732 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 21:11:23,557 autoreload 11172 25276 Watching for file changes with StatReloader
+INFO 2023-09-30 21:11:23,737 basehttp 11172 19936 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:11:23,761 log 11172 19936 Not Found: /product_update/1/
+WARNING 2023-09-30 21:11:23,762 basehttp 11172 19936 "GET /product_update/1/ HTTP/1.1" 404 2679
+INFO 2023-09-30 21:11:44,522 basehttp 11172 19936 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:11:45,509 autoreload 11172 25276 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 21:11:45,872 autoreload 26176 22636 Watching for file changes with StatReloader
+INFO 2023-09-30 21:11:46,038 basehttp 26176 26168 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:11:46,063 log 26176 26168 Not Found: /homework4/product_update_id/product_update/1/
+WARNING 2023-09-30 21:11:46,064 basehttp 26176 26168 "GET /homework4/product_update_id/product_update/1/ HTTP/1.1" 404 3420
+INFO 2023-09-30 21:11:47,105 views 26176 26168 Index page accessed: 2023-09-30 21:11:47.105129
+INFO 2023-09-30 21:11:47,105 basehttp 26176 26168 "GET / HTTP/1.1" 200 1080
+INFO 2023-09-30 21:11:48,879 basehttp 26176 26168 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-09-30 21:11:49,923 basehttp 26176 26168 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:11:50,892 basehttp 26176 26168 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:11:50,913 log 26176 26168 Not Found: /homework4/product_update_id/product_update/1/
+WARNING 2023-09-30 21:11:50,913 basehttp 26176 26168 "GET /homework4/product_update_id/product_update/1/ HTTP/1.1" 404 3420
+INFO 2023-09-30 21:12:09,717 basehttp 26176 26168 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:12:09,873 autoreload 26176 22636 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 21:12:10,243 autoreload 13852 30000 Watching for file changes with StatReloader
+INFO 2023-09-30 21:12:10,397 basehttp 13852 22760 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:12:10,421 log 13852 22760 Not Found: /homework4/product_update_id/.product_update/1/
+WARNING 2023-09-30 21:12:10,422 basehttp 13852 22760 "GET /homework4/product_update_id/.product_update/1/ HTTP/1.1" 404 3423
+INFO 2023-09-30 21:12:51,982 basehttp 13852 24752 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:12:52,644 autoreload 13852 30000 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 21:12:53,019 autoreload 23340 2260 Watching for file changes with StatReloader
+INFO 2023-09-30 21:12:53,199 basehttp 23340 25820 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:12:53,223 log 23340 25820 Not Found: /homework4/product_update_id/product_update/1/
+WARNING 2023-09-30 21:12:53,224 basehttp 23340 25820 "GET /homework4/product_update_id/product_update/1/ HTTP/1.1" 404 3421
+INFO 2023-09-30 21:12:57,592 basehttp 23340 25820 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:13:21,086 basehttp 23340 25820 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:13:21,103 log 23340 25820 Not Found: /homework4/product_update_id/product_update/1/
+WARNING 2023-09-30 21:13:21,104 basehttp 23340 25820 "GET /homework4/product_update_id/product_update/1/ HTTP/1.1" 404 3421
+INFO 2023-09-30 21:13:21,109 autoreload 23340 2260 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 21:13:21,500 autoreload 2396 7008 Watching for file changes with StatReloader
+INFO 2023-09-30 21:13:26,685 basehttp 2396 17844 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:15:30,797 autoreload 2396 7008 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 21:15:31,173 autoreload 25096 27932 Watching for file changes with StatReloader
+INFO 2023-09-30 21:17:45,385 autoreload 25096 27932 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 21:17:45,761 autoreload 13672 26380 Watching for file changes with StatReloader
+INFO 2023-09-30 21:17:49,828 basehttp 13672 1072 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:17:49,850 log 13672 1072 Not Found: /homework4/product_update_id/myapp4/product_update/1/
+WARNING 2023-09-30 21:17:49,850 basehttp 13672 1072 "GET /homework4/product_update_id/myapp4/product_update/1/ HTTP/1.1" 404 3440
+INFO 2023-09-30 21:18:04,347 basehttp 13672 1072 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:18:04,761 autoreload 13672 26380 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 21:18:05,164 autoreload 25356 16156 Watching for file changes with StatReloader
+INFO 2023-09-30 21:18:05,354 basehttp 25356 12948 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:18:05,379 log 25356 12948 Not Found: /myapp4/product_update/1/
+WARNING 2023-09-30 21:18:05,380 basehttp 25356 12948 "GET /myapp4/product_update/1/ HTTP/1.1" 404 2700
+INFO 2023-09-30 21:18:09,017 basehttp 25356 12948 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:18:25,292 basehttp 25356 12948 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:18:25,309 log 25356 12948 Not Found: /myapp4/product_update/1/
+WARNING 2023-09-30 21:18:25,310 basehttp 25356 12948 "GET /myapp4/product_update/1/ HTTP/1.1" 404 2700
+INFO 2023-09-30 21:18:26,092 autoreload 25356 16156 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 21:18:26,461 autoreload 5624 21572 Watching for file changes with StatReloader
+INFO 2023-09-30 21:18:29,545 basehttp 5624 26160 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:18:37,067 basehttp 5624 26160 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:18:37,090 log 5624 26160 Not Found: /myapp4/product_update/1
+WARNING 2023-09-30 21:18:37,091 basehttp 5624 26160 "GET /myapp4/product_update/1 HTTP/1.1" 404 2697
+INFO 2023-09-30 21:18:37,157 autoreload 5624 21572 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 21:18:37,533 autoreload 22836 4804 Watching for file changes with StatReloader
+INFO 2023-09-30 21:18:39,395 basehttp 22836 21160 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:18:40,060 basehttp 22836 21160 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:18:41,189 basehttp 22836 21160 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:18:41,209 log 22836 21160 Not Found: /homework4/product_update_id/myapp4/product_update/1
+WARNING 2023-09-30 21:18:41,210 basehttp 22836 21160 "GET /homework4/product_update_id/myapp4/product_update/1 HTTP/1.1" 404 3437
+INFO 2023-09-30 21:19:10,727 autoreload 22836 4804 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 21:19:11,101 autoreload 27588 20664 Watching for file changes with StatReloader
+INFO 2023-09-30 21:20:16,166 views 27588 29880 Index page accessed: 2023-09-30 21:20:16.166662
+INFO 2023-09-30 21:20:16,167 basehttp 27588 29880 "GET / HTTP/1.1" 200 1080
+INFO 2023-09-30 21:20:17,631 basehttp 27588 29880 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-09-30 21:20:18,344 basehttp 27588 29880 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:20:19,440 basehttp 27588 29880 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:20:19,460 log 27588 29880 Not Found: /product_update/1
+WARNING 2023-09-30 21:20:19,460 basehttp 27588 29880 "GET /product_update/1 HTTP/1.1" 404 2676
+INFO 2023-09-30 21:20:47,769 autoreload 27588 20664 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 21:20:48,135 autoreload 29920 12472 Watching for file changes with StatReloader
+INFO 2023-09-30 21:20:48,330 basehttp 29920 1592 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:20:49,303 basehttp 29920 1592 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-09-30 21:20:49,325 log 29920 1592 Not Found: /homework4/product_update_id/homework4/product_update/1
+WARNING 2023-09-30 21:20:49,326 basehttp 29920 1592 "GET /homework4/product_update_id/homework4/product_update/1 HTTP/1.1" 404 3446
+INFO 2023-09-30 21:21:00,259 basehttp 29920 1592 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:21:00,749 autoreload 29920 12472 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-30 21:21:01,134 autoreload 19436 16208 Watching for file changes with StatReloader
+INFO 2023-09-30 21:21:01,296 basehttp 19436 19988 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+ERROR 2023-09-30 21:21:01,343 log 19436 19988 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: product_update_form() got an unexpected keyword argument 'product_id'
+ERROR 2023-09-30 21:21:01,344 basehttp 19436 19988 "GET /homework4/product_update/1 HTTP/1.1" 500 70992
+ERROR 2023-09-30 21:21:31,754 log 19436 19988 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: product_update_form() got an unexpected keyword argument 'product_id'
+ERROR 2023-09-30 21:21:31,755 basehttp 19436 19988 "GET /homework4/product_update/1 HTTP/1.1" 500 70992
+INFO 2023-09-30 21:21:32,170 autoreload 19436 16208 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 21:21:32,567 autoreload 28220 14724 Watching for file changes with StatReloader
+INFO 2023-09-30 21:21:32,738 basehttp 28220 19880 "GET /homework4/product_update/1 HTTP/1.1" 301 0
+ERROR 2023-09-30 21:21:32,775 log 28220 15572 Internal Server Error: /homework4/product_update/1/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: product_update_form() got an unexpected keyword argument 'product_id'
+ERROR 2023-09-30 21:21:32,776 basehttp 28220 15572 "GET /homework4/product_update/1/ HTTP/1.1" 500 71001
+INFO 2023-09-30 21:21:33,610 basehttp 28220 15572 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-09-30 21:21:34,462 basehttp 28220 15572 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-09-30 21:21:34,481 basehttp 28220 15572 "GET /homework4/product_update/1 HTTP/1.1" 301 0
+ERROR 2023-09-30 21:21:34,505 log 28220 7832 Internal Server Error: /homework4/product_update/1/
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: product_update_form() got an unexpected keyword argument 'product_id'
+ERROR 2023-09-30 21:21:34,506 basehttp 28220 7832 "GET /homework4/product_update/1/ HTTP/1.1" 500 71001
+INFO 2023-09-30 21:21:45,202 autoreload 28220 14724 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-30 21:21:45,573 autoreload 17180 20984 Watching for file changes with StatReloader
+INFO 2023-10-01 07:34:36,280 autoreload 14616 13020 Watching for file changes with StatReloader
+INFO 2023-10-01 07:34:38,264 views 14616 24588 Index page accessed: 2023-10-01 07:34:38.264901
+INFO 2023-10-01 07:34:38,264 basehttp 14616 24588 "GET / HTTP/1.1" 200 1080
+WARNING 2023-10-01 07:34:38,469 log 14616 24588 Not Found: /favicon.ico
+WARNING 2023-10-01 07:34:38,470 basehttp 14616 24588 "GET /favicon.ico HTTP/1.1" 404 2661
+INFO 2023-10-01 07:34:40,401 basehttp 14616 24588 "GET /homework3 HTTP/1.1" 301 0
+INFO 2023-10-01 07:34:40,424 basehttp 14616 28636 "GET /homework3/ HTTP/1.1" 200 1093
+INFO 2023-10-01 07:49:21,310 autoreload 14616 13020 E:\python_Django_HW\myproject\myapp4\models.py changed, reloading.
+INFO 2023-10-01 07:49:21,698 autoreload 22636 15708 Watching for file changes with StatReloader
+INFO 2023-10-01 07:56:38,485 autoreload 22636 15708 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 07:56:38,861 autoreload 4632 17988 Watching for file changes with StatReloader
+INFO 2023-10-01 09:43:47,263 autoreload 11176 28004 Watching for file changes with StatReloader
+INFO 2023-10-01 09:43:49,303 views 11176 4892 Index page accessed: 2023-10-01 09:43:49.303949
+INFO 2023-10-01 09:43:49,304 basehttp 11176 4892 "GET / HTTP/1.1" 200 1080
+WARNING 2023-10-01 09:43:49,430 log 11176 4892 Not Found: /favicon.ico
+WARNING 2023-10-01 09:43:49,430 basehttp 11176 4892 "GET /favicon.ico HTTP/1.1" 404 2661
+INFO 2023-10-01 09:43:50,441 basehttp 11176 4892 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-10-01 09:43:51,747 basehttp 11176 4892 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 09:43:53,239 basehttp 11176 4892 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+ERROR 2023-10-01 09:43:53,310 log 11176 4892 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: myapp4_product
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 27, in product_update_form
+    product = Product.objects.filter(pk=product_id).first()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 1057, in first
+    for obj in queryset[:1]:
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: myapp4_product
+ERROR 2023-10-01 09:43:53,314 basehttp 11176 4892 "GET /homework4/product_update/1 HTTP/1.1" 500 140463
+INFO 2023-10-01 09:45:25,253 basehttp 11176 4892 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 09:45:26,190 autoreload 11176 28004 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 09:45:26,562 autoreload 19288 19912 Watching for file changes with StatReloader
+INFO 2023-10-01 09:45:26,746 basehttp 19288 26328 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-10-01 09:45:26,784 basehttp 19288 26328 "GET /homework4/product_update/1 HTTP/1.1" 200 1100
+INFO 2023-10-01 09:45:30,066 basehttp 19288 26328 "GET /homework4/product_update/1 HTTP/1.1" 200 1100
+INFO 2023-10-01 09:45:59,593 basehttp 19288 26328 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 09:45:59,617 autoreload 19288 19912 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 09:46:00,037 autoreload 7448 1212 Watching for file changes with StatReloader
+INFO 2023-10-01 09:46:02,131 basehttp 7448 24304 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 09:46:03,440 basehttp 7448 24304 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+ERROR 2023-10-01 09:46:03,489 log 7448 24304 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: myapp4_product
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 27, in product_update_form
+    product = Product.objects.filter(id=product_id).first()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 1057, in first
+    for obj in queryset[:1]:
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: myapp4_product
+ERROR 2023-10-01 09:46:03,493 basehttp 7448 24304 "GET /homework4/product_update/1 HTTP/1.1" 500 140463
+INFO 2023-10-01 09:47:18,382 autoreload 7448 1212 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 09:47:18,762 autoreload 1608 4472 Watching for file changes with StatReloader
+INFO 2023-10-01 09:47:18,943 basehttp 1608 21188 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 09:47:19,826 basehttp 1608 21188 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+ERROR 2023-10-01 09:47:19,865 log 1608 21188 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: product_update_form() got an unexpected keyword argument 'product_id'
+ERROR 2023-10-01 09:47:19,866 basehttp 1608 21188 "GET /homework4/product_update/1 HTTP/1.1" 500 70992
+INFO 2023-10-01 09:49:48,961 basehttp 1608 21188 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 09:49:49,430 autoreload 1608 4472 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-10-01 09:49:49,805 autoreload 4708 6684 Watching for file changes with StatReloader
+INFO 2023-10-01 09:49:49,986 basehttp 4708 25996 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+ERROR 2023-10-01 09:49:50,042 log 4708 25996 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: myapp4_product
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 27, in product_update_form
+    product = Product.objects.filter(id=product_id).first()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 1057, in first
+    for obj in queryset[:1]:
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: myapp4_product
+ERROR 2023-10-01 09:49:50,048 basehttp 4708 25996 "GET /homework4/product_update/1 HTTP/1.1" 500 140463
+INFO 2023-10-01 09:51:09,955 autoreload 4708 6684 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 09:51:10,331 autoreload 29340 13048 Watching for file changes with StatReloader
+INFO 2023-10-01 09:55:03,696 autoreload 29340 13048 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 09:55:04,063 autoreload 14484 21060 Watching for file changes with StatReloader
+ERROR 2023-10-01 09:56:24,064 log 14484 24828 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: product_update_form() got an unexpected keyword argument 'product_id'
+ERROR 2023-10-01 09:56:24,065 basehttp 14484 24828 "GET /homework4/product_update/1 HTTP/1.1" 500 70992
+INFO 2023-10-01 09:56:26,834 basehttp 14484 24828 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 09:56:27,578 basehttp 14484 24828 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+ERROR 2023-10-01 09:56:27,607 log 14484 24828 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: product_update_form() got an unexpected keyword argument 'product_id'
+ERROR 2023-10-01 09:56:27,608 basehttp 14484 24828 "GET /homework4/product_update/1 HTTP/1.1" 500 70992
+INFO 2023-10-01 09:56:35,312 basehttp 14484 24828 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 09:56:36,472 basehttp 14484 24828 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 09:56:37,419 basehttp 14484 24828 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+ERROR 2023-10-01 09:56:37,448 log 14484 24828 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: product_update_form() got an unexpected keyword argument 'product_id'
+ERROR 2023-10-01 09:56:37,449 basehttp 14484 24828 "GET /homework4/product_update/1 HTTP/1.1" 500 70992
+ERROR 2023-10-01 09:56:57,394 log 14484 24828 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: product_update_form() got an unexpected keyword argument 'product_id'
+ERROR 2023-10-01 09:56:57,395 basehttp 14484 24828 "GET /homework4/product_update/1 HTTP/1.1" 500 70992
+ERROR 2023-10-01 09:56:58,023 log 14484 24828 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: product_update_form() got an unexpected keyword argument 'product_id'
+ERROR 2023-10-01 09:56:58,024 basehttp 14484 24828 "GET /homework4/product_update/1 HTTP/1.1" 500 70992
+INFO 2023-10-01 09:56:58,143 autoreload 14484 21060 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 09:56:58,513 autoreload 1268 28268 Watching for file changes with StatReloader
+INFO 2023-10-01 09:56:58,606 basehttp 1268 14856 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 09:56:59,624 basehttp 1268 14856 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+ERROR 2023-10-01 09:56:59,663 log 1268 14856 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: product_update_form() got an unexpected keyword argument 'product_id'
+ERROR 2023-10-01 09:56:59,664 basehttp 1268 14856 "GET /homework4/product_update/1 HTTP/1.1" 500 70992
+INFO 2023-10-01 09:57:53,890 autoreload 11440 30192 Watching for file changes with StatReloader
+INFO 2023-10-01 09:57:57,861 views 11440 6880 Index page accessed: 2023-10-01 09:57:57.861833
+INFO 2023-10-01 09:57:57,862 basehttp 11440 6880 "GET / HTTP/1.1" 200 1080
+INFO 2023-10-01 09:57:59,094 basehttp 11440 6880 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-10-01 09:58:00,025 basehttp 11440 6880 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 09:58:00,805 basehttp 11440 6880 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+ERROR 2023-10-01 09:58:00,845 log 11440 6880 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: product_update_form() got an unexpected keyword argument 'product_id'
+ERROR 2023-10-01 09:58:00,846 basehttp 11440 6880 "GET /homework4/product_update/1 HTTP/1.1" 500 70992
+INFO 2023-10-01 09:59:38,245 basehttp 11440 6880 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 09:59:38,890 autoreload 11440 30192 E:\python_Django_HW\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-10-01 09:59:39,254 autoreload 13048 12556 Watching for file changes with StatReloader
+INFO 2023-10-01 09:59:39,447 basehttp 13048 2416 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-10-01 09:59:39,470 log 13048 2416 Not Found: /homework4/product_update/1
+WARNING 2023-10-01 09:59:39,471 basehttp 13048 2416 "GET /homework4/product_update/1 HTTP/1.1" 404 3340
+INFO 2023-10-01 09:59:45,666 basehttp 13048 2416 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 10:00:30,247 basehttp 13048 2416 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+WARNING 2023-10-01 10:00:30,267 log 13048 2416 Not Found: /homework4/product_update/1
+WARNING 2023-10-01 10:00:30,267 basehttp 13048 2416 "GET /homework4/product_update/1 HTTP/1.1" 404 3340
+INFO 2023-10-01 10:00:30,828 autoreload 13048 12556 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 10:00:31,197 autoreload 26284 1848 Watching for file changes with StatReloader
+INFO 2023-10-01 10:00:31,298 basehttp 26284 26992 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 10:00:32,545 basehttp 26284 26992 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 10:00:33,338 basehttp 26284 26992 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-10-01 10:00:33,356 basehttp 26284 26992 "GET /homework4/product_update/1 HTTP/1.1" 200 1100
+INFO 2023-10-01 10:00:54,812 basehttp 26284 26992 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 10:00:55,064 autoreload 26284 1848 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 10:00:55,449 autoreload 19880 8016 Watching for file changes with StatReloader
+INFO 2023-10-01 10:00:55,748 basehttp 19880 28812 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-10-01 10:00:56,669 basehttp 19880 28812 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 10:00:57,528 basehttp 19880 28812 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-10-01 10:00:57,546 basehttp 19880 28812 "GET /homework4/product_update/1 HTTP/1.1" 200 1100
+INFO 2023-10-01 10:01:35,803 basehttp 19880 21392 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 10:01:36,668 autoreload 19880 8016 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 10:01:37,035 autoreload 8140 15728 Watching for file changes with StatReloader
+INFO 2023-10-01 10:01:37,192 basehttp 8140 4900 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-10-01 10:01:38,052 basehttp 8140 4900 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 10:01:39,164 basehttp 8140 4900 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-10-01 10:01:39,184 basehttp 8140 4900 "GET /homework4/product_update/1 HTTP/1.1" 200 1100
+INFO 2023-10-01 10:03:23,649 autoreload 8140 15728 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 10:03:24,020 autoreload 11412 3428 Watching for file changes with StatReloader
+INFO 2023-10-01 10:06:32,250 basehttp 11412 13288 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 10:06:32,510 autoreload 11412 3428 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 10:06:32,898 autoreload 4440 20224 Watching for file changes with StatReloader
+INFO 2023-10-01 10:06:33,246 basehttp 4440 18600 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-10-01 10:06:33,271 basehttp 4440 18600 "GET /homework4/product_update/1 HTTP/1.1" 200 1100
+ERROR 2023-10-01 10:06:45,346 log 4440 18600 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 33, in product_update_form
+    name, price, description, number = form.cleaned_data.get('name, price, description, number')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+ERROR 2023-10-01 10:06:45,348 basehttp 4440 18600 "POST /homework4/product_update/1 HTTP/1.1" 500 76077
+INFO 2023-10-01 10:08:18,666 autoreload 4440 20224 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 10:08:19,037 autoreload 17704 3504 Watching for file changes with StatReloader
+INFO 2023-10-01 10:08:19,383 basehttp 17704 20312 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 10:08:19,990 basehttp 17704 20312 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-10-01 10:08:20,007 basehttp 17704 20312 "GET /homework4/product_update/1 HTTP/1.1" 200 1100
+ERROR 2023-10-01 10:08:29,125 log 17704 20312 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 33, in product_update_form
+    name, price, description, number = form.cleaned_data.get('name', 'price', 'description', 'number')
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: get expected at most 2 arguments, got 4
+ERROR 2023-10-01 10:08:29,126 basehttp 17704 20312 "POST /homework4/product_update/1 HTTP/1.1" 500 76264
+INFO 2023-10-01 10:12:17,791 autoreload 17704 3504 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 10:12:18,163 autoreload 27596 6468 Watching for file changes with StatReloader
+INFO 2023-10-01 10:13:32,069 autoreload 27596 6468 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 10:13:32,442 autoreload 19224 21936 Watching for file changes with StatReloader
+INFO 2023-10-01 10:13:33,100 basehttp 19224 25804 "GET /homework4/product_update/1 HTTP/1.1" 200 1100
+INFO 2023-10-01 10:13:41,491 basehttp 19224 25804 "POST /homework4/product_update/1 HTTP/1.1" 200 1154
+INFO 2023-10-01 10:14:15,683 autoreload 19224 21936 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 10:14:16,050 autoreload 28488 19672 Watching for file changes with StatReloader
+INFO 2023-10-01 10:22:01,935 autoreload 28488 19672 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 10:22:02,297 autoreload 19052 21532 Watching for file changes with StatReloader
+INFO 2023-10-01 10:22:47,289 autoreload 19052 21532 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 10:22:47,672 autoreload 18000 9232 Watching for file changes with StatReloader
+INFO 2023-10-01 10:23:34,701 autoreload 18000 9232 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 10:23:35,090 autoreload 12884 22924 Watching for file changes with StatReloader
+INFO 2023-10-01 10:27:21,480 autoreload 12884 22924 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 10:27:21,850 autoreload 20448 18160 Watching for file changes with StatReloader
+INFO 2023-10-01 10:27:22,749 basehttp 20448 5080 "GET /homework4/product_update/1 HTTP/1.1" 200 1100
+INFO 2023-10-01 10:27:22,929 basehttp 20448 5080 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 10:27:25,163 basehttp 20448 5080 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 10:27:26,269 basehttp 20448 5080 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-10-01 10:27:26,286 basehttp 20448 5080 "GET /homework4/product_update/1 HTTP/1.1" 200 1100
+ERROR 2023-10-01 10:27:34,071 log 20448 5080 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: myapp4_product
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 37, in product_update_form
+    product = Product.objects.filter(pk=product_id).first()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 1057, in first
+    for obj in queryset[:1]:
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: myapp4_product
+ERROR 2023-10-01 10:27:34,076 basehttp 20448 5080 "POST /homework4/product_update/1 HTTP/1.1" 500 142610
+INFO 2023-10-01 10:29:03,557 autoreload 20448 18160 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 10:29:03,928 autoreload 16012 13840 Watching for file changes with StatReloader
+INFO 2023-10-01 10:44:12,231 basehttp 16012 30324 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 10:44:12,824 autoreload 16012 13840 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 10:44:13,206 autoreload 22720 24284 Watching for file changes with StatReloader
+INFO 2023-10-01 10:44:13,378 basehttp 22720 3820 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 10:44:14,440 basehttp 22720 3820 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-10-01 10:44:14,457 basehttp 22720 3820 "GET /homework4/product_update/1 HTTP/1.1" 200 1100
+ERROR 2023-10-01 10:44:28,213 log 22720 3820 Internal Server Error: /homework4/product_update/1
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: myapp4_product
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 37, in product_update_form
+    product = Product.objects.filter(pk=product_id).first()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 1057, in first
+    for obj in queryset[:1]:
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: myapp4_product
+ERROR 2023-10-01 10:44:28,218 basehttp 22720 3820 "POST /homework4/product_update/1 HTTP/1.1" 500 142592
+INFO 2023-10-01 10:46:05,162 autoreload 22720 24284 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 10:46:05,532 autoreload 18032 22168 Watching for file changes with StatReloader
+INFO 2023-10-01 10:47:26,565 autoreload 18032 22168 E:\python_Django_HW\myproject\myapp4\models.py changed, reloading.
+INFO 2023-10-01 10:47:26,954 autoreload 6928 10936 Watching for file changes with StatReloader
+INFO 2023-10-01 10:49:57,557 autoreload 6928 10936 E:\python_Django_HW\myproject\myapp4\models.py changed, reloading.
+INFO 2023-10-01 10:49:57,971 autoreload 18232 29976 Watching for file changes with StatReloader
+INFO 2023-10-01 11:08:48,617 autoreload 18232 29976 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 11:08:48,992 autoreload 22948 24616 Watching for file changes with StatReloader
+INFO 2023-10-01 11:08:49,838 basehttp 22948 1952 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 11:08:52,313 basehttp 22948 1952 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-10-01 11:08:53,343 basehttp 22948 1952 "GET /homework4/product_update_id/ HTTP/1.1" 200 1267
+INFO 2023-10-01 11:09:05,008 basehttp 22948 1952 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-10-01 11:09:05,027 basehttp 22948 1952 "GET /homework4/product_update/2 HTTP/1.1" 200 1100
+INFO 2023-10-01 11:09:16,024 basehttp 22948 1952 "POST /homework4/product_update/2 HTTP/1.1" 200 1150
+INFO 2023-10-01 11:13:25,400 autoreload 22948 24616 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 11:13:25,789 autoreload 25624 2556 Watching for file changes with StatReloader
+INFO 2023-10-01 11:13:30,119 basehttp 25624 26828 "GET /homework4/product_update/2 HTTP/1.1" 200 1100
+INFO 2023-10-01 11:13:30,251 basehttp 25624 26828 "GET /homework4/product_update_id/ HTTP/1.1" 200 1275
+INFO 2023-10-01 11:13:32,503 views 25624 26828 Index page accessed: 2023-10-01 11:13:32.503369
+INFO 2023-10-01 11:13:32,504 basehttp 25624 26828 "GET / HTTP/1.1" 200 1080
+INFO 2023-10-01 11:13:33,822 basehttp 25624 26828 "GET /homework4/ HTTP/1.1" 200 613
+ERROR 2023-10-01 11:13:34,602 log 25624 9068 Internal Server Error: /homework4/product_update/2
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\myproject\myapp4\views.py", line 30, in product_update_form
+    product.save()
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\base.py", line 990, in _save_table
+    updated = self._do_update(
+              ^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\base.py", line 1054, in _do_update
+    return filtered._update(values) > 0
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\query.py", line 1231, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1984, in execute_sql
+    cursor = super().execute_sql(result_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django_HW\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: database is locked
+ERROR 2023-10-01 11:13:34,608 basehttp 25624 9068 "POST /homework4/product_update/2 HTTP/1.1" 500 159838
+INFO 2023-10-01 11:13:35,099 basehttp 25624 26828 "GET /homework4/product_update_id/ HTTP/1.1" 200 1275
+INFO 2023-10-01 11:14:20,766 autoreload 25624 2556 E:\python_Django_HW\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-10-01 11:14:21,143 autoreload 28000 8372 Watching for file changes with StatReloader
+INFO 2023-10-01 11:14:27,453 basehttp 28000 17736 "GET /homework3/ HTTP/1.1" 200 1093
+INFO 2023-10-01 11:16:08,916 autoreload 28000 8372 E:\python_Django_HW\myproject\myapp2\models.py changed, reloading.
+INFO 2023-10-01 11:16:09,289 autoreload 18160 17920 Watching for file changes with StatReloader
+INFO 2023-10-01 11:38:00,642 autoreload 2304 15456 Watching for file changes with StatReloader
+INFO 2023-10-01 11:38:01,978 views 2304 29472 Index page accessed: 2023-10-01 11:38:01.978624
+INFO 2023-10-01 11:38:01,979 basehttp 2304 29472 "GET / HTTP/1.1" 200 1080
+INFO 2023-10-01 11:38:03,204 basehttp 2304 29472 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-10-01 11:38:04,554 basehttp 2304 29472 "GET /homework4/product_update_id/ HTTP/1.1" 200 1275
+INFO 2023-10-01 11:38:07,658 basehttp 2304 29472 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-10-01 11:38:07,676 basehttp 2304 29472 "GET /homework4/product_update/8 HTTP/1.1" 200 1100
+INFO 2023-10-01 11:41:36,695 views 2304 29472 Index page accessed: 2023-10-01 11:41:36.695873
+INFO 2023-10-01 11:41:36,696 basehttp 2304 29472 "GET / HTTP/1.1" 200 1080
+INFO 2023-10-01 11:41:50,377 basehttp 2304 29472 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-10-01 11:41:53,046 basehttp 2304 29472 "GET /homework4/product_update_id/ HTTP/1.1" 200 1275
+INFO 2023-10-01 11:42:15,892 basehttp 2304 29472 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-10-01 11:42:15,908 basehttp 2304 29472 "GET /homework4/product_update/8 HTTP/1.1" 200 1100
+INFO 2023-10-01 11:43:45,744 autoreload 2304 15456 E:\python_Django_HW\myproject\myapp2\models.py changed, reloading.
+INFO 2023-10-01 11:43:46,116 autoreload 22004 28280 Watching for file changes with StatReloader
+INFO 2023-10-01 11:59:39,048 autoreload 17316 26380 Watching for file changes with StatReloader
+INFO 2023-10-01 11:59:40,262 views 17316 27536 Index page accessed: 2023-10-01 11:59:40.262450
+INFO 2023-10-01 11:59:40,264 basehttp 17316 27536 "GET / HTTP/1.1" 200 1080
+INFO 2023-10-01 11:59:41,602 basehttp 17316 27536 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-10-01 11:59:42,733 basehttp 17316 27536 "GET /homework4/product_update_id/ HTTP/1.1" 200 1275
+INFO 2023-10-01 11:59:44,015 basehttp 17316 27536 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-10-01 11:59:44,039 basehttp 17316 27536 "GET /homework4/product_update/1 HTTP/1.1" 200 1245
+INFO 2023-10-01 12:00:23,523 autoreload 17316 26380 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 12:00:23,902 autoreload 20064 12820 Watching for file changes with StatReloader
+INFO 2023-10-01 12:01:03,093 autoreload 20064 12820 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 12:01:03,465 autoreload 22616 28260 Watching for file changes with StatReloader
+INFO 2023-10-01 12:01:23,233 autoreload 22616 28260 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 12:01:23,612 autoreload 19532 9076 Watching for file changes with StatReloader
+INFO 2023-10-01 12:04:42,316 autoreload 19532 9076 E:\python_Django_HW\myproject\myapp4\views.py changed, reloading.
+INFO 2023-10-01 12:04:42,687 autoreload 20332 2044 Watching for file changes with StatReloader
+INFO 2023-10-01 12:08:16,620 views 20332 9912 Index page accessed: 2023-10-01 12:08:16.620268
+INFO 2023-10-01 12:08:16,621 basehttp 20332 9912 "GET / HTTP/1.1" 200 1080
+INFO 2023-10-01 12:08:16,870 autoreload 20332 2044 E:\python_Django_HW\myproject\myproject\settings.py changed, reloading.
+INFO 2023-10-01 12:08:17,265 autoreload 26248 1728 Watching for file changes with StatReloader
+INFO 2023-10-01 12:08:17,870 basehttp 26248 29180 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-10-01 12:08:18,741 basehttp 26248 29180 "GET /homework4/product_update_id/ HTTP/1.1" 200 1275
+INFO 2023-10-01 12:08:22,453 basehttp 26248 29180 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-10-01 12:08:22,472 basehttp 26248 29180 "GET /homework4/product_update/2 HTTP/1.1" 200 1245
+INFO 2023-10-01 12:08:43,190 basehttp 26248 29180 "POST /homework4/product_update/2 HTTP/1.1" 200 1359
+INFO 2023-10-01 12:14:26,786 autoreload 26248 1728 E:\python_Django_HW\myproject\myapp2\models.py changed, reloading.
+INFO 2023-10-01 12:14:27,165 autoreload 28748 25212 Watching for file changes with StatReloader
+INFO 2023-10-01 12:14:27,354 basehttp 28748 20312 "GET /homework4/product_update_id/ HTTP/1.1" 200 1275
+INFO 2023-10-01 12:14:28,980 basehttp 28748 20312 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-10-01 12:14:30,191 basehttp 28748 20312 "GET /homework4/product_update_id/ HTTP/1.1" 200 1275
+INFO 2023-10-01 12:14:37,544 autoreload 26284 18828 Watching for file changes with StatReloader
+INFO 2023-10-01 12:14:41,250 views 26284 11864 Index page accessed: 2023-10-01 12:14:41.250962
+INFO 2023-10-01 12:14:41,250 basehttp 26284 11864 "GET / HTTP/1.1" 200 1080
+INFO 2023-10-01 12:14:42,507 basehttp 26284 11864 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-10-01 12:14:43,442 basehttp 26284 11864 "GET /homework4/product_update_id/ HTTP/1.1" 200 1275
+INFO 2023-10-01 12:14:44,542 basehttp 26284 11864 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-10-01 12:14:44,560 basehttp 26284 11864 "GET /homework4/product_update/1 HTTP/1.1" 200 1245
+INFO 2023-10-01 12:14:56,245 basehttp 26284 11864 "POST /homework4/product_update/1 HTTP/1.1" 200 1355
+INFO 2023-10-01 12:17:12,277 basehttp 26284 11864 "GET /homework4/product_update/1 HTTP/1.1" 200 1275
+INFO 2023-10-01 12:17:12,289 basehttp 26284 27392 - Broken pipe from ('127.0.0.1', 58688)
+INFO 2023-10-01 12:17:12,410 basehttp 26284 11864 "GET /homework4/product_update_id/ HTTP/1.1" 200 1275
+INFO 2023-10-01 12:17:24,631 autoreload 6280 4528 Watching for file changes with StatReloader
+INFO 2023-10-01 12:17:28,539 views 6280 29260 Index page accessed: 2023-10-01 12:17:28.539710
+INFO 2023-10-01 12:17:28,539 basehttp 6280 29260 "GET / HTTP/1.1" 200 1080
+INFO 2023-10-01 12:17:30,145 basehttp 6280 29260 "GET /homework4/ HTTP/1.1" 200 613
+INFO 2023-10-01 12:17:30,881 basehttp 6280 29260 "GET /homework4/product_update_id/ HTTP/1.1" 200 1275
+INFO 2023-10-01 12:17:32,229 basehttp 6280 29260 "POST /homework4/product_update_id/ HTTP/1.1" 302 0
+INFO 2023-10-01 12:17:32,250 basehttp 6280 29260 "GET /homework4/product_update/1 HTTP/1.1" 200 1275
+INFO 2023-10-01 12:17:42,286 basehttp 6280 29260 "POST /homework4/product_update/1 HTTP/1.1" 200 1327

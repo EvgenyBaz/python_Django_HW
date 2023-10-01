@@ -20,11 +20,7 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="ca575292-beef-4303-a6c7-0f29a4a5da3f" object-ref="schemas/main/tables/myapp2_product" />
-      <object connection-id="ca575292-beef-4303-a6c7-0f29a4a5da3f" object-ref="schemas/main/tables/myapp2_user" />
-      <object connection-id="ca575292-beef-4303-a6c7-0f29a4a5da3f" object-ref="schemas/main/tables/myapp2_order_products" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
     <filter-actions connection-id="ca575292-beef-4303-a6c7-0f29a4a5da3f" dataset="main.myapp2_product" active-filter-id="0c13faea-115a-486f-9918-33e0bc5eb3e7">
