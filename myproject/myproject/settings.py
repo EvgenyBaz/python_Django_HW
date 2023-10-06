@@ -20,17 +20,25 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-ylv*8#s(!&#7*zyb5p)+q$0k%o@3yxl483a9@ejwuz6l+5pl2+'
+# SECRET_KEY = 'django-insecure-ylv*8#s(!&#7*zyb5p)+q$0k%o@3yxl483a9@ejwuz6l+5pl2+'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
+SESSION_COOKIE_SECURE = True
+CSRF_COOKIE_SECURE = True
+
+SECRET_KEY = os.getenv('SECRET_KEY')
+
 
 ALLOWED_HOSTS = [
-    '127.0.0.1',
-    '192.168.1.137',
+    # '127.0.0.1',
+    # '192.168.1.137',
+    'EvgBaz.pythonanywhere.com',
 ]
 
-
+INTERNAL_IPS = [
+    '127.0.0.1'
+]
 # Application definition
 
 INSTALLED_APPS = [
@@ -44,12 +52,14 @@ INSTALLED_APPS = [
     'myapp2',
     'myapp4',
     'myapp5',
+    'debug_toolbar',
 ]
 
 
 
 
 MIDDLEWARE = [
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -64,7 +74,9 @@ ROOT_URLCONF = 'myproject.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [
+            BASE_DIR / 'templates',
+        ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -85,8 +97,15 @@ WSGI_APPLICATION = 'myproject.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': '<EvgBaz>$default>',
+        'USER': '<EvgBaz>',
+        'PASSWORD': os.getenv('MYSQL_PASSWORD'),
+        'HOST': 'EvgBaz.mysql.pythonanywhere-services.com',
+        'OPTIONS': {
+            'init_command': "SET NAMES 'utf8mb4';SET sql_mode='STRICT_TRANS_TABLES'",
+            'charset': 'utf8mb4',
+        },
     }
 }
 
@@ -170,16 +189,16 @@ LOGGING = {
     },
 }
 
+MEDIA_URL = '/media/'
+MEDIA_ROOT = BASE_DIR / 'media'
 
-MEDIA_ROOT = os.path.join(BASE_DIR, 'media')    # for web dev
 # MEDIA_ROOT = '/'   # for local dev
 
-MEDIA_URL = '/media/'
 
 # STATIC_ROOT = os.path.join(BASE_DIR, 'static')    # for web dev
-STATIC_ROOT = '/'   # for local dev
 
 STATIC_URL = 'static/'
+STATIC_ROOT = BASE_DIR / 'static/'
 
 # STATICFILES_DIRS = [
 #     os.path.join(BASE_DIR, 'static/'),                             # for local dev, off on web

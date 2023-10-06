@@ -6288,3 +6288,18 @@ INFO 2023-10-03 19:13:49,436 basehttp 2960 18676 "GET /admin/myapp2/user/add/?_t
 INFO 2023-10-03 19:13:49,473 basehttp 2960 19932 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
 INFO 2023-10-03 19:14:00,060 basehttp 2960 19932 "GET /admin/myapp2/user/13/change/?_to_field=id HTTP/1.1" 200 12105
 INFO 2023-10-03 19:14:00,104 basehttp 2960 18676 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-06 17:24:58,763 autoreload 3616 2040 Watching for file changes with StatReloader
+INFO 2023-10-06 17:25:00,313 views 3616 32280 Index page accessed: 2023-10-06 17:25:00.313342
+INFO 2023-10-06 17:25:00,358 basehttp 3616 32280 "GET / HTTP/1.1" 200 10821
+INFO 2023-10-06 17:25:00,401 basehttp 3616 17872 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2023-10-06 17:25:00,407 basehttp 3616 4628 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13404
+INFO 2023-10-06 17:25:00,447 basehttp 3616 4628 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2023-10-06 17:25:00,461 basehttp 3616 4628 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+WARNING 2023-10-06 17:25:00,522 log 3616 4628 Not Found: /favicon.ico
+WARNING 2023-10-06 17:25:00,522 basehttp 3616 4628 "GET /favicon.ico HTTP/1.1" 404 12537
+INFO 2023-10-06 17:30:48,413 autoreload 3616 2040 E:\python_Django_HW\myproject\myproject\settings.py changed, reloading.
+INFO 2023-10-06 17:30:48,864 autoreload 31840 15684 Watching for file changes with StatReloader
+INFO 2023-10-06 17:31:13,951 autoreload 31840 15684 E:\python_Django_HW\myproject\myproject\settings.py changed, reloading.
+INFO 2023-10-06 17:31:14,400 autoreload 16196 1272 Watching for file changes with StatReloader
+INFO 2023-10-06 17:32:12,447 autoreload 16196 1272 E:\python_Django_HW\myproject\myproject\settings.py changed, reloading.
+INFO 2023-10-06 17:32:12,860 autoreload 32628 24332 Watching for file changes with StatReloader
